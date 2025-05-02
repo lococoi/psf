@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "publicoordinario": "5051.25",
+  "publicoextra": "6061.50",
+  "privadoordinario": "6981.75",
+  "privadoextra": "8378.10",
+  "osesp": "5508.00",
+  "osespchofercoord": "6000.00",
+  "osespsupervdir": "6600.00",
+  "fecha": "2025-03-14",
+  "vigencia": "2025-01-29",
+  "feriados": ["9225", "10825", "12125", "17125", "19025", "32525", "34225", "35925"]
+}
