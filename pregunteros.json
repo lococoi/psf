@@ -1,0 +1,72 @@
+[
+  {
+    "nombre": "Geografía Argentina",
+    "preguntas": [
+      {
+        "texto": "¿Cuál es la capital de Argentina?",
+        "opciones": ["Buenos Aires", "Córdoba", "Mendoza", "Rosario"],
+        "respuestaCorrecta": 0,
+        "justificacion": "La capital de Argentina es Buenos Aires."
+      },
+      {
+        "texto": "¿Qué río pasa por Buenos Aires?",
+        "opciones": ["Río Paraná", "Río Uruguay", "Río de la Plata", "Río Negro"],
+        "respuestaCorrecta": 2,
+        "justificacion": "El Río de la Plata es un estuario."
+      },
+      {
+        "texto": "¿Cuál es el pico más alto de América?",
+        "opciones": ["Aconcagua", "Everest", "McKinley", "Kilimanjaro"],
+        "respuestaCorrecta": 0,
+        "justificacion": "El Aconcagua es una montaña de la Cordillera de los Andes."
+      },
+      {
+        "texto": "¿Quién pintó la Mona Lisa?",
+        "opciones": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Claude Monet"],
+        "respuestaCorrecta": 1,
+        "justificacion": "La Mona Lisa es una obra de Leonardo da Vinci."
+      },
+      {
+        "texto": "¿Cuál es el símbolo químico del oro?",
+        "opciones": ["Au", "Ag", "Fe", "Cu"],
+        "respuestaCorrecta": 0,
+        "justificacion": "El símbolo químico del oro es Au."
+      }
+    ]
+  },
+  {
+    "nombre": "Conocimiento General",
+    "preguntas": [
+      {
+        "texto": "¿En qué año comenzó la Primera Guerra Mundial?",
+        "opciones": ["1914", "1918", "1939", "1945"],
+        "respuestaCorrecta": 0,
+        "justificacion": "La Primera Guerra Mundial comenzó en 1914."
+      },
+      {
+        "texto": "¿Qué planeta es conocido como el 'Planeta Rojo'?",
+        "opciones": ["Venus", "Marte", "Júpiter", "Saturno"],
+        "respuestaCorrecta": 1,
+        "justificacion": "Marte es conocido como el Planeta Rojo por su apariencia rojiza."
+      },
+      {
+        "texto": "¿Cuál es el océano más grande de la Tierra?",
+        "opciones": ["Atlántico", "Índico", "Ártico", "Pacífico"],
+        "respuestaCorrecta": 3,
+        "justificacion": "El Océano Pacífico es el más grande."
+      },
+      {
+        "texto": "¿Quién escribió 'Cien años de soledad'?",
+        "opciones": ["Gabriel García Márquez", "Mario Vargas Llosa", "Julio Cortázar", "Jorge Luis Borges"],
+        "respuestaCorrecta": 0,
+        "justificacion": "Cien años de soledad fue escrito por Gabriel García Márquez."
+      },
+      {
+        "texto": "¿Cuál es la moneda oficial de Japón?",
+        "opciones": ["Yuan", "Won", "Yen", "Ringgit"],
+        "respuestaCorrecta": 2,
+        "justificacion": "La moneda oficial de Japón es el Yen."
+      }
+    ]
+  }
+]
