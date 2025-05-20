@@ -1,6 +1,6 @@
 [
   {
-    "habilitado": 0,
+    "habilitado": 1,
     "nombre": "Oficial ◊",
     "preguntas": [
       {
@@ -2430,7 +2430,7 @@
     ]
   },
   {
-    "habilitado": 0,
+    "habilitado": false,
     "nombre": "subinspector ◊◊",
     "preguntas": [
       {
@@ -2446,7 +2446,7 @@
     ]
   },
   {
-    "habilitado": 0,
+    "habilitado": false,
     "nombre": "inspector ◊◊◊",
     "preguntas": [
       {
@@ -2462,7 +2462,7 @@
     ]
   },
   {
-    "habilitado": 0,
+    "habilitado": false,
     "nombre": "subcomisario ⧫",
     "preguntas": [
       {
@@ -2478,7 +2478,7 @@
     ]
   },
   {
-    "habilitado": 0,
+    "habilitado": false,
     "nombre": "comisario ⧫⧫",
     "preguntas": [
       {
@@ -2494,7 +2494,7 @@
     ]
   },
   {
-    "habilitado": 0,
+    "habilitado": false,
     "nombre": "comisario supervisor ⧫⧫⧫",
     "preguntas": [
       {
@@ -2510,7 +2510,7 @@
     ]
   },
   {
-    "habilitado": 0,
+    "habilitado": false,
     "nombre": "subdirector ✹",
     "preguntas": [
       {
@@ -2526,7 +2526,7 @@
     ]
   },
   {
-    "habilitado": 0,
+    "habilitado": false,
     "nombre": "director ✹✹",
     "preguntas": [
       {
@@ -2542,7 +2542,7 @@
     ]
   },
   {
-    "habilitado": 0,
+    "habilitado": false,
     "nombre": "director general ✹✹✹",
     "preguntas": [
       {
