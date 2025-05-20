@@ -1,71 +1,2206 @@
 [
   {
-    "nombre": "Geografía Argentina",
+    "nombre": "Oficial ◊",
     "preguntas": [
       {
-        "texto": "¿Cuál es la capital de Argentina?",
-        "opciones": ["Buenos Aires", "Córdoba", "Mendoza", "Rosario"],
-        "respuestaCorrecta": 0,
-        "justificacion": "La capital de Argentina es Buenos Aires."
+        "texto": "JEFE: Es la persona que ejerce el mando, la táctica y la conducción de una organización policial.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "Es la persona que ejerce el mando, el comando y la conducción de una organización policial"
       },
       {
-        "texto": "¿Qué río pasa por Buenos Aires?",
-        "opciones": ["Río Paraná", "Río Uruguay", "Río de la Plata", "Río Negro"],
+        "texto": "La Conducción es la aplicación del Comando a la solución de un problema o actividad operacional policial.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 0,
+        "justificacion": "La conducción es la aplicación del Comando a la solución de un problema policial."
+      },
+      {
+        "texto": "Jefe: es la persona que ejerce el comando, el mando y la conducción de una organización policial.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 0,
+        "justificacion": "Es la persona que ejerce el mando, el comando y la conducción de una organización policial (sin importar la magnitud o tamaño, lo que incluye desde el Jefe de Policía hasta un Jefe de Patrulla)."
+      },
+      {
+        "texto": "Mando es la aplicación del comando a la solución de un problema policial. Es un arte, una actividad libre y creadora, que se apoya sobre bases científicas",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "Es la acción que ejerce el jefe sobre los hombres que le están subordinado."
+      },
+      {
+        "texto": "Comando es la aplicación de técnicas en particular a la solución de un problema o actividad operacional policial.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "Es el ejercicio de la autoridad y responsabilidad legales sobre una organización policial. Es una función del grado y cargo que está prescripta, regulada y limitada taxativamente por las leyes y reglamentos policiales (autoridad legal)."
+      },
+      {
+        "texto": "Los requisitos esenciales de la acción son:",
+        "opciones": [
+          "Apta, Adecuada y Circunstancial.",
+          "Apta, Factible y Aceptable.",
+          "Apta, Situacional y Jurisdiccional."
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "Apta, Factible y Aceptable"
+      },
+      {
+        "texto": "Las Técnicas de la conducción (AROS) son:",
+        "opciones": [
+          "Apariencia.",
+          "Revisión y planeamiento.",
+          "Ordenanza y Supervisión.",
+          "Todas son correctas.",
+          "Ninguna es correcta."
+        ],
+        "respuestaCorrecta": 4,
+        "justificacion": "Ninguna es correcta."
+      },
+      {
+        "texto": "El jefe debe ser guía y educador en todo sentido",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "El jefe debe ser guía y educador en todo sentido. No sólo debe conocer a su personal y dirigirlos con elevado sentimiento de justicia, sino que también debe destacarse por la superioridad de sus conocimientos y de su experiencia, por su entereza moral, por el dominio de sí mismo y por el valor demostrado ante el peligro."
+      },
+      {
+        "texto": "Como atributo de la conducción, el policía no sólo es responsable de sí mismo, sino también de sus camaradas.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 0,
+        "justificacion": "El policía no sólo es responsable de sí mismo, sino también de sus camaradas."
+      },
+      {
+        "texto": "Como atributo de la conducción, el policía sólo es responsable de sí mismo.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "El policía no sólo es responsable de sí mismo, sino también de sus camaradas."
+      },
+      {
+        "texto": "Comando",
+        "opciones": [
+          "La acción ejercida por el jefe con el objeto de dirigir, persuadir e influir sobre sus subordinados.",
+          "Es el ejercicio de la autoridad y responsabilidades legales sobre una organización policial.",
+          "Es el perfil profesional del funcionario policial."
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "Es el ejercicio de la autoridad y responsabilidades legales sobre una organización policial."
+      },
+      {
+        "texto": "Mando:",
+        "opciones": [
+          "La acción ejercida por el jefe con el objeto de dirigir, persuadir e influir sobre sus subordinados.",
+          "Es el ejercicio de la autoridad y responsabilidades legales sobre una organización policial.",
+          "Es la aplicación del comando a la solución de un problema policial. Es un arte, una actividad libre y creadora, que se apoya sobre bases científicas."
+        ],
+        "respuestaCorrecta": 0,
+        "justificacion": "La acción ejercida por el jefe con el objeto de dirigir, persuadir e influir sobre sus subordinados."
+      },
+      {
+        "texto": "Conducción Política",
+        "opciones": [
+          "Adecua los medios para lograr los objetivos.",
+          "Emplea los medios para obtener los objetivos.",
+          "Señala los objetivos a lograr."
+        ],
         "respuestaCorrecta": 2,
-        "justificacion": "El Río de la Plata es un estuario."
+        "justificacion": "Señala los objetivos a lograr"
       },
       {
-        "texto": "¿Cuál es el pico más alto de América?",
-        "opciones": ["Aconcagua", "Everest", "McKinley", "Kilimanjaro"],
+        "texto": "Elija una de las opciones de acuerdo con el Principio de la sencillez:",
+        "opciones": [
+          "Recordar el lema: “Orden, Contraorden, Desorden”.",
+          "Preservará el poder de acción.",
+          "Contribuye a cumplir la exigencia básica: imponer la propia voluntad."
+        ],
         "respuestaCorrecta": 0,
-        "justificacion": "El Aconcagua es una montaña de la Cordillera de los Andes."
+        "justificacion": "Recordar el lema: “Orden, Contraorden, Desorden”."
       },
       {
-        "texto": "¿Quién pintó la Mona Lisa?",
-        "opciones": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Claude Monet"],
+        "texto": "Según los Principios de la Conducción la definición correcta para el Principio de la libertad de acción es:",
+        "opciones": [
+          "Recordar el Lema: “Orden, Contraorden, Desorden”.",
+          "Preservará el poder de acción.",
+          "Contribuye a cumplir la exigencia básica: imponer la propia voluntad."
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "Contribuye a cumplir la exigencia básica: imponer la propia voluntad"
+      },
+      {
+        "texto": "Elija una de las opciones como la correcta de acuerdo con el Principio de la seguridad:",
+        "opciones": [
+          "Recordar el lema: “Orden, Contraorden, Desorden”.",
+          "La seguridad será acrecentada por la acción audaz y el mantenimiento de la iniciativa, lo que negará al oponente la oportunidad para interferir.",
+          "Contribuye a cumplir la exigencia básica: imponer la propia voluntad."
+        ],
         "respuestaCorrecta": 1,
-        "justificacion": "La Mona Lisa es una obra de Leonardo da Vinci."
+        "justificacion": "La seguridad será acrecentada por la acción audaz y el mantenimiento de la iniciativa, lo que negará al oponente la oportunidad para interferir."
       },
       {
-        "texto": "¿Cuál es el símbolo químico del oro?",
-        "opciones": ["Au", "Ag", "Fe", "Cu"],
+        "texto": "Elija una de las opciones como la correcta de acuerdo con el Principio del objetivo:",
+        "opciones": [
+          "Propósito que se persigue medido en efectos o en resultados a lograr. Será claro, definido y alcanzable.",
+          "Ejercicio de la iniciativa e imposición de la propia voluntad al oponente. Es necesario para obtener resultados decisivos y para mantener la libertad de acción.",
+          "Acción sobre el oponente en un momento, lugar o modo inesperados. No es esencial que el oponente sea tomado de improviso."
+        ],
         "respuestaCorrecta": 0,
-        "justificacion": "El símbolo químico del oro es Au."
-      }
-    ]
-  },
-  {
-    "nombre": "Conocimiento General",
-    "preguntas": [
-      {
-        "texto": "¿En qué año comenzó la Primera Guerra Mundial?",
-        "opciones": ["1914", "1918", "1939", "1945"],
-        "respuestaCorrecta": 0,
-        "justificacion": "La Primera Guerra Mundial comenzó en 1914."
+        "justificacion": "Propósito que se persigue medido en efectos o en resultados a lograr. Será claro, definido y alcanzable."
       },
       {
-        "texto": "¿Qué planeta es conocido como el 'Planeta Rojo'?",
-        "opciones": ["Venus", "Marte", "Júpiter", "Saturno"],
+        "texto": "Elija una de las opciones como la correcta de acuerdo con el Principio de la sorpresa",
+        "opciones": [
+          "Propósito que se persigue medido en efectos o en resultados a lograr. Será claro, definido y alcanzable.",
+          "Ejercicio de la iniciativa e imposición de la propia voluntad al oponente. Es necesario para obtener resultados decisivos y para mantener la libertad de acción.",
+          "Acción sobre el oponente en un momento, lugar o modo inesperados. No es esencial que el oponente sea tomado de improviso, sino que no tenga tiempo para tomar contramedidas."
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "Acción sobre el oponente en un momento, lugar o modo inesperados. No es esencial que el oponente sea tomado de improviso, sino que no tenga tiempo para tomar contramedidas."
+      },
+      {
+        "texto": "Elija una de las opciones como la correcta según el Principio De la masa:",
+        "opciones": [
+          "Propósito que se persigue medido en efectos o en resultados a lograr. Será claro, definido y alcanzable.",
+          "Ejercicio de la iniciativa e imposición de la propia voluntad al oponente. Es necesario para obtener resultados decisivos y para mantener la libertad de acción.",
+          "Aplicación concentrada de un poder de acción superior, en el momento y lugar oportunos, para un propósito decisivo."
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "Aplicación concentrada de un poder de acción superior, en el momento y lugar oportunos, para un propósito decisivo."
+      },
+      {
+        "texto": "Conducción Estratégica:",
+        "opciones": [
+          "Adecúa los medios para lograr los objetivos.",
+          "Emplea los medios para obtener los objetivos.",
+          "Señala los objetivos a lograr."
+        ],
+        "respuestaCorrecta": 0,
+        "justificacion": "Adecúa los medios para lograr los objetivos."
+      },
+      {
+        "texto": "Conducción Táctica",
+        "opciones": [
+          "Adecúa los medios para lograr los objetivos.",
+          "Emplea los medios para obtener los objetivos.",
+          "Señala los objetivos a lograr."
+        ],
         "respuestaCorrecta": 1,
-        "justificacion": "Marte es conocido como el Planeta Rojo por su apariencia rojiza."
+        "justificacion": "Emplea los medios para obtener los objetivos."
       },
       {
-        "texto": "¿Cuál es el océano más grande de la Tierra?",
-        "opciones": ["Atlántico", "Índico", "Ártico", "Pacífico"],
+        "texto": "En la Policía de la Provincia de Santa Fe un jefe debe ejercer",
+        "opciones": [
+          "el comando correcto.",
+          "el mando correcto.",
+          "la conducción correcta.",
+          "el control correcto."
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "el mando correcto."
+      },
+      {
+        "texto": "En la Policía de la Provincia de Santa Fe un jefe debe ejercer el mando correcto",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 0,
+        "justificacion": "Un jefe debe ejercer el mando correcto."
+      },
+      {
+        "texto": "De acuerdo con el tipo de problema que se deba resolver la Conducción Política es la que emplea los medios para obtener los objetivos.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "Señala los objetivo a lograr."
+      },
+      {
+        "texto": "De acuerdo con el tipo de problema que se deba resolver la Conducción Táctica es la que señala los objetivos a lograr.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "Emplea los medios para obtener los objetivos."
+      },
+      {
+        "texto": "De acuerdo con el tipo de problema que deba resolver, la Conducción Estratégica es la que adecua los medios para lograr los objetivos.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 0,
+        "justificacion": "Adecua los medios para lograr los objetivos."
+      },
+      {
+        "texto": "De acuerdo con el tipo de problema que deba resolver la Conducción Política: Señala los objetivos a lograr.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 0,
+        "justificacion": "La Conducción Política señala los objetivos a lograr."
+      },
+      {
+        "texto": "A.R.O.S: Es utilizada por el jefe para el ejercicio de la conducción. Al ser un ciclo su orden podrá ser alterado",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "Es utilizada por el jefe para el ejercicio de la conducción, comprendiendo el siguiente ciclo básico (cuyo orden NO DEBE ser alterado)."
+      },
+      {
+        "texto": "La representación de las iniciales de la técnica de la Conducción A.R.O.S son: Apreciación - Resolución y Planes - Órdenes - Supervisión.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 0,
+        "justificacion": "Apreciación - Resolución y Planes - Órdenes - Supervisión."
+      },
+      {
+        "texto": "Operación: Es el empleo extraordinario de fuerzas policiales para ejecutar aquellas actividades necesarias, que permitan cumplir una misión determinada.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 0,
+        "justificacion": "Es el empleo extraordinario de fuerzas policiales para ejecutar aquellas actividades necesarias, que permitan cumplir una misión determinada."
+      },
+      {
+        "texto": "Servicio: es el empleo rutinario de fuerzas policiales para ejecutar aquellas actividades necesarias, que permitan cumplir una misión determinada",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 0,
+        "justificacion": "Es el empleo rutinario de fuerzas policiales para ejecutar aquellas actividades necesarias, que permitan cumplir una misión determinada."
+      },
+      {
+        "texto": "La representación de las iniciales de la técnica de la Conducción A.R.O.S son: Apreciación - Resolución y Planes - Objetivos - Supervisión.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "Apreciación - Resolución y Planes - Órdenes - Supervisión."
+      },
+      {
+        "texto": "Según los niveles de conducción y de ejecución, El Procedimiento: Integración de un conjunto de técnicas que se aplican en una situación determinada. Método obligatorio para ejecutar una serie de acciones, empleado por un elemento o individuo.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 0,
+        "justificacion": "Integración de un conjunto de técnicas que se aplican en una situación determinada. Método obligatorio para ejecutar una serie de acciones, empleado por un elemento o individuo."
+      },
+      {
+        "texto": "Según los niveles de conducción y de ejecución, La Situación: Tarea o responsabilidad, inherente o asignada, a una organización o a un individuo.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "Es el conjunto de circunstancia, del tiempo, lugar , datos propios del oponente para plantear un problema de conducción."
+      },
+      {
+        "texto": "El Mando Persuasivo si se excede se corrompe en: Déspota, Ególatra o Terco.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "El Mando Persuasivo es indolente o demagogo."
+      },
+      {
+        "texto": "El mando autoritario si se excede se corrompe en: Indolente o Demagogo.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "El mando autoritario Déspota, Ególatra o Terco."
+      },
+      {
+        "texto": "El Comando: Es el ejercicio de la autoridad y responsabilidad legales sobre una organización policial. Es una función del grado y cargo que está prescripta, regulada y limitada taxativamente por las leyes y reglamentos policiales.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 0,
+        "justificacion": "Es el ejercicio de la autoridad y responsabilidad legales sobre una organización policial. Es una función del grado y cargo que está prescripta, regulada y limitada taxativamente por las leyes y reglamentos policiales"
+      },
+      {
+        "texto": "ESCENA DEL CRIMEN: La responsabilidad inicial de la preservación del lugar del hecho en primera instancia es del “primer personal policial” que arribe; para luego delegar las actuaciones procesales en el sumariante en turno de la dependencia policial por jurisdicción",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": ""
+      },
+      {
+        "texto": "¿Qué principio de la criminalística, es el más vulnerado en el lugar del hecho ante un mal actuar policial?",
+        "opciones": [
+          "Principio de Respaldo.",
+          "Principio de Intercambio",
+          "Principio de Igualdad",
+          "Principio de Uso.",
+          "Principio de identidad"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "Principio de Intercambio: este principio es el más vulnerado por el mal accionar policial, en el lugar del hecho."
+      },
+      {
+        "texto": "Indicio, evidencia y prueba.",
+        "opciones": [
+          "En términos Criminalísticas indicio es sinónimo de .",
+          "En términos Criminalística indicio es sinónimo de Evidencia. pero no de Prueba."
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "En términos Criminalísticos: indicio es sinónimo de Evidencia, pero no de Prueba."
+      },
+      {
+        "texto": "¿Quién tiene el control inmediato en el lugar del hecho delictivo?",
+        "opciones": [
+          "El personal policial de mayor jerarquía que arribe al “Lugar del Hecho”, quién tomará las decisiones y diligencias que estime necesarias.",
+          "El primer personal policial que arribe al “Lugar del Hecho”, comunicará inmediatamente al superior, a los fines de recibir directivas para el correcto actuar.",
+          "El primer personal policial que arribe al “Lugar del Hecho”, deberá preservar, custodiar y demás diligencias que estime necesarias, para el correcto actuar."
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "El primer personal policial que arribe al “Lugar del Hecho”, deberá preservar, custodiar y demás diligencias que estime necesarias, para el correcto actuar."
+      },
+      {
+        "texto": "Cadena de custodia.",
+        "opciones": [
+          "Se debe cumplir con cadena de custodia que sea segura mediante la entrega al funcionario judicial.",
+          "Se debe cumplir con un registro minucioso de la posesión y cadena de custodia, asegurándolo mediante un sistema de recibos y registros, realizado por el personal de R.P.I. en la prosecución procesal del procedimiento traído por el primer interventor del hecho y luego remitirlo a pericias.",
+          "Se debe cumplir con un registro minucioso de la posesión y cadena de custodia, asegurándolo mediante un sistema de recibos y registros."
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "Se debe cumplir con un registro minucioso de la posesión y cadena de custodia, asegurándolo mediante un sistema de recibos y registros. DONDE CONTARAN LOS NOMBRES DE LAS PERSONAS TECNICAMENTE AN MANEJADO LA MISMA"
+      },
+      {
+        "texto": "Los tipos de instrucciones del fiscal, para el personal policial en el lugar del hecho pueden ser:",
+        "opciones": [
+          "Genéricas.",
+          "Genéricas y Específicas.",
+          "Ninguna de las dos es correcta; debido que las instrucciones se reciben del Personal.",
+          "Policial de mayor jerarquía."
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "Cuando la investigación fuera iniciada por la Policía, de inmediato será comunicada tal circunstancia al Fiscal competente, a fin de que éste pueda controlar la misma e impartir instrucciones genéricas o específicas."
+      },
+      {
+        "texto": "En la zona exterior restringida, es un sector de circulación y permanencia, en el cual deben agruparse los diversos especialistas convocados a tal efecto, R.P.I. y personal policial.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 0,
+        "justificacion": "Sector de libre circulación y permanencia en el cual deben agruparse los diversos especialistas convocados a tal efecto, Fiscal, testigos, R.P.I., Personal Policial o de Fuerzas de Seguridad de apoyo,"
+      },
+      {
+        "texto": "Disciplinas auxiliares:“ una ciencia auxiliar es aquella que funciona como soporte de otra ciencia para que ésta cumpla con sus metas y objetivos. Se trata de disciplinas científicas que pueden complementar a una ciencia en ciertos casos específicos”.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 0,
+        "justificacion": "Una ciencia auxiliar es aquella que funciona como soporte de otra ciencia para que ésta cumpla con sus metas y objetivos. Se trata de disciplinas científicas que pueden complementar a una ciencia en ciertos casos específicos."
+      },
+      {
+        "texto": "Criminalística, es una ciencia perteneciente a la medicina legal, debido a que esta última es la primera ciencia forense en aplicar conocimientos médicos, para la resolución de un caso penal.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "La Criminalística es la ciencia que amalgama todos los estudios relativos a las técnicas del crimen."
+      },
+      {
+        "texto": "Ante el riesgo inminente de pérdidas de los indicios, el personal policial actuante… ¿puede efectuar la recolección en el lugar del hecho?",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 0,
+        "justificacion": "Ante el riesgo inminente de pérdida de indicios, el personal policial actuante puede efectuar la recolección en el lugar del hecho1. Es crucial preservar la evidencia para una investigación adecuada y garantizar la cadena de custodia."
+      },
+      {
+        "texto": "¿Qué es una prueba?",
+        "opciones": [
+          "Cuando la evidencia permite determinar, en cierta forma como se desarrolló el hecho delictivo y/o establecer la participación de un sujeto en el proceso judicial.",
+          "Cuando en el lugar del hecho delictivo, el indicio, permite determinar, cómo se desarrolló el hecho delictivo y/o establecer la participación de un sujeto en el proceso judicial."
+        ],
+        "respuestaCorrecta": 1,
+        "justificacion": "Cuando la evidencia permite determinar, en cierta forma como se desarrolló el hecho delictivo y/o establecer la participación de un sujeto en el proceso judicial."
+      },
+      {
+        "texto": "¿En qué se parecen la criminología y criminalística?",
+        "opciones": [
+          "Son ciencias auxiliares de la Medicina Legal",
+          "Se parecen debido a que comparten disciplinas auxiliares, como la Psicología",
+          "Ninguna es correcta"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "Se establece que no hay que confundir criminología y criminalística, ya que se enfocan en aspectos diferentes."
+      },
+      {
+        "texto": "El personal policial que llegue primero al lugar del hecho, realiza un correcto cordón perimetral y no permite que nadie ingrese bajo ninguna circunstancia, a excepción de por supuesto de:",
+        "opciones": [
+          "Peligro real de la vida de alguien partícipe de dicho suceso, ya sea a la víctima misma, el victimario o un tercero.",
+          "El superior que se hace presente debe ingresar a la escena delictiva a los fines de observar detenidamente todo el hecho.",
+          "El personal actuante, permite a otros policías en calidad de refuerzos, obtener una visión particular del hecho, a los fines de asegurar correctamente la zona."
+        ],
+        "respuestaCorrecta": 0,
+        "justificacion": ""
+      },
+      {
+        "texto": "Preocupaciones básicas en el lugar del hecho del funcionario policial:",
+        "opciones": [
+          "Preservar la Vida, Equipos, móviles policiales y protección de la escena.",
+          "Preservar la vida, protección de la escena delictiva.",
+          "Preservar la Vida, Equipos, móviles policiales, protección de la escena delictiva, seguridad de los presentes y del funcionario.",
+          "Preservar la vida, seguridad del funcionario y protección de la escena delictiva."
+        ],
         "respuestaCorrecta": 3,
-        "justificacion": "El Océano Pacífico es el más grande."
+        "justificacion": ""
       },
       {
-        "texto": "¿Quién escribió 'Cien años de soledad'?",
-        "opciones": ["Gabriel García Márquez", "Mario Vargas Llosa", "Julio Cortázar", "Jorge Luis Borges"],
-        "respuestaCorrecta": 0,
-        "justificacion": "Cien años de soledad fue escrito por Gabriel García Márquez."
-      },
-      {
-        "texto": "¿Cuál es la moneda oficial de Japón?",
-        "opciones": ["Yuan", "Won", "Yen", "Ringgit"],
+        "texto": "El personal que cumpla el  rol de R.P.I, según instrucción generaln.º4 del año 2014 del fiscal general del M.P.A.:",
+        "opciones": [
+          "Es el interlocutor de la superioridad policial en el Lugar de los Hechos, para que esta instancia informe al Fiscal del M.P.A en turno.",
+          "Es el interlocutor de la Institución policial en el Lugar de los Hechos, para comunicar lo sucedido a los medios de comunicación.",
+          "Es el interlocutor del Fiscal del M.P.A., en el caso."
+        ],
         "respuestaCorrecta": 2,
-        "justificacion": "La moneda oficial de Japón es el Yen."
+        "justificacion": ""
+      },
+      {
+        "texto": "La dirección de la investigación ante un hecho delictivo es facultad del:",
+        "opciones": [
+          "Jefe de Comisaría",
+          "Superior en Turno",
+          "R.P.I",
+          "Ninguna de las opciones es correcta."
+        ],
+        "respuestaCorrecta": 3,
+        "justificacion": "El fiscal es quien dirige la investigación."
+      },
+      {
+        "texto": "HASTA ACA LLEGUE",
+        "opciones": [
+          "HASTA ACA"
+        ],
+        "respuestaCorrecta": 3,
+        "justificacion": "El fiscal es quien dirige la investigación."
+      },
+      {
+        "texto": "Al momento de la recolección de un indicio de cualquier tipo, el personal policial actuante, lo asegurará mediante qué formularios homologados por el MPA:",
+        "opciones": [
+          "Formulario Rótulo de Elemento secuestrado, Formulario Cadena de Custodia Formulario y de Protección.",
+          "Formulario Acta de Procedimiento y Formularios de Protección",
+          "Formulario Rótulo de Elemento Secuestrado y Cadena de Custodia"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Según la instrucción general Nro.4 del año 2014 del fiscal general del MPA, la presencia del fiscal en turno del MPA, en el lugar del hecho es:",
+        "opciones": [
+          "Es obligatoria su presencia, a los fines de brindar una correcta guía en la investigación y preservación del Lugar del hecho, debido que es el Director de la Investigación",
+          "Su presencia, en el Lugar del Hecho, es una decisión propia, dependiendo el caso, evaluará su concurrencia."
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "“lugar del hecho o escenario delictivo”.",
+        "opciones": [
+          "El LUGAR DEL HECHO siempre será considerado potencial ESCENA DEL CRIMEN hasta que se determine lo contrario",
+          "El LUGAR DEL HECHO siempre será considerado potencial ESCENA DEL CRIMEN hasta que lo determine la intuición policial.",
+          "●El LUGAR DEL HECHO siempre será considerado potencial ESCENA DEL CRIMEN hasta que el superior presente determine lo contrario."
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "El LUGAR DEL HECHO siempre será considerado potencial ESCENA DEL CRIMEN hasta que se determine lo contrario"
+      },
+      {
+        "texto": "Criminalística, ciencia que se ocupa del crimen y también es conocida popularmente como:",
+        "opciones": [
+          "“Ciencia psicológica de los detalles, DESCUBRE, PRUEBA, EXPLICA e IDENTIFICA, a Autor/es y Víctima/as.",
+          "“Ciencia auxiliar de la Medicina Legal”, que interpreta los detalles, que DESCUBRE, PRUEBA, EXPLICA e IDENTIFICA, a Autor/es y Víctima/as",
+          "La Ciencia de los detalles ,DESCUBRE, PRUEBA, EXPLICA e IDENTIFICA, a Autor/es y Víctima/as."
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "La Ciencia de los detalles ,DESCUBRE, PRUEBA, EXPLICA e IDENTIFICA, a Autor/es y Víctima/as."
+      },
+      {
+        "texto": "Criminalística: aplica: métodos, conocimientos científicos y técnicas para reconstruirlos hechos acaecidos.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "verdadero"
+      },
+      {
+        "texto": "¿La Criminalística posee ocho (08) principios criminalísticas?",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "falso"
+      },
+      {
+        "texto": "Principio criminalística de intercambio, en el lugar del hecho: Es cuando el agente vulnerante deja impresa, sus características sobre el cuerpo en el cual impacta o se superpone.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "falso"
+      },
+      {
+        "texto": "¿La responsabilidad inicial de la preservación del lugar del hecho en primera instancia, es del “primer funcionario policial”, que arribe? ¿para luego delegar las actuaciones procesales en el sumariante en turno de la dependencia policial por jurisdicción?",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "falso  en lugar de delegar a un sumariante policial de la jurisdicción, las actuaciones procesales quedan a cargo del Fiscal y su equipo de investigación, incluyendo el RPI y los peritos criminalísticos expertos."
+      },
+      {
+        "texto": "Clasificación de la Criminalística: se clasifica según el lugar donde se realice la investigación y puede ser",
+        "opciones": [
+          "De campo, aseguramiento y prueba",
+          "In Situ y de laboratorio.",
+          "De campo y laboratorio"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "De campo y laboratorio"
+      },
+      {
+        "texto": "¿Quién tiene el control inmediato en el lugar del hecho delictivo?",
+        "opciones": [
+          "El funcionario policial de mayor jerarquía que arribe al “Lugar del Hecho”, quién tomará las decisiones y diligencias que estime necesarias.",
+          "El primer funcionario policial que arribe al “Lugar del Hecho”, comunicará inmediatamente al superior, a los fines de recibir directivas para el correcto actuar",
+          "El primer funcionario policial que arribe al “Lugar del Hecho”, deberá preservar, custodiar y demás diligencias que estime necesarias, para el correcto actuar"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "El primer funcionario policial que arribe al “Lugar del Hecho”, deberá preservar, custodiar y demás diligencias que estime necesarias, para el correcto actuar"
+      },
+      {
+        "texto": "El Funcionario Policial y Cadena de custodia del indicio en el lugar del hecho",
+        "opciones": [
+          "No es necesario, está contemplado en la función policial.-",
+          "Solo si realizo, un curso que lo perfeccione para tal fin"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "No es necesario, está contemplado en la función policial.-"
+      },
+      {
+        "texto": "El funcionario policial que cumpla el rol de R.P.I, según instrucción general Nro.4 del año 2014 del Fiscal General del M.P.A.",
+        "opciones": [
+          "Es el interlocutor de la superioridad policial en el Lugar de los Hechos, para que esta instancia informe al Fiscal del M.P.A en turno",
+          "Es el interlocutor de la Institución policial en el Lugar de los Hechos, para comunicar lo sucedido a los medios de comunicación.",
+          "Es el interlocutor del Fiscal del M.P.A., en el caso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "Su función es exclusivamente interactuar y responder ante el Fiscal a cargo del caso."
+      },
+      {
+        "texto": "La criminalística, tiene dos etapas históricas, que son:",
+        "opciones": [
+          "Intuitiva y Científica.",
+          "Científica y Metódica",
+          "Equívoca y Científica."
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "las dos etapas históricas mencionadas explícitamente en el texto son la etapa equívoca y la etapa científica, siendo esta última la que marcó un enfoque más técnico y basado en evidencia para la criminalística."
+      },
+      {
+        "texto": "Disciplinas auxiliares:“ una ciencia auxiliar es la que funciona como soporte de otra ciencia para que ésta cumpla con sus metas y objetivos. Se trata de disciplinas científicas que pueden complementar a una ciencia en ciertos casos específicos",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "Ej.: Fotografía Pericial, Balística, Planimetría Pericial, Química Forense, Papiloscopía, Caligrafía, Accidentología, Revenido Químico, Informática Forense. Identikit. Todas las ciencias con soporte científico comprobable, integran la Ciencia de la Criminalística"
+      },
+      {
+        "texto": "Criminalística, es una ciencia perteneciente a la medicina legal, debido a que esta última es la primera ciencia forense en aplicar conocimientos médicos, para la resolución de un caso pena",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "(FALSA) La criminalística no es una ciencia perteneciente a la medicina legal, ambas tienen autonomía propia según se menciona en el texto."
+      },
+      {
+        "texto": "Ante el riesgo inminente de pérdidas de los indicios, ¿el funcionario policial actuante, puede efectuar la recolección en el lugar del hecho?",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "(VERDADERA) Aunque no se menciona explícitamente, se sobreentiende que ante riesgo de pérdida de indicios, el funcionario policial puede recolectarlos para preservarlos."
+      },
+      {
+        "texto": "Métodos aconsejables para la búsqueda de indicios en el lugar del hecho.",
+        "opciones": [
+          "Intuitiva–Distanciado–Espiral-Grilla",
+          "Lineal-Razonada–Focal–Sectoriza.",
+          "Espiral–Grilla–Zonal."
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "(ESPIRAL - GRILLA - ZONAL) Estos son los métodos aconsejables mencionados para la búsqueda de indicios"
+      },
+      {
+        "texto": "¿En qué se parecen criminología y criminalística?",
+        "opciones": [
+          "Son ciencias auxiliares de la Medicina Legal.",
+          "Se parecen debido a que comparten disciplinas auxiliares, como la Psicología.",
+          "Ninguna es correcta."
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "(NINGUNA ES CORRECTA) Se establece que no hay que confundir criminología y criminalística, ya que se enfocan en aspectos diferentes."
+      },
+      {
+        "texto": "Clasificación de la criminalística: ésta se clasifica según el lugar donde se realice la investigación, y puede ser:",
+        "opciones": [
+          "De Campo y Laboratorio.",
+          "De Investigación, Campo y Laboratorio",
+          "De Investigación y Campo"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "(DE CAMPO Y LABORATORIO) Estas son las dos clasificaciones mencionadas según el lugar donde se realice la investigación criminalística."
+      },
+      {
+        "texto": "Preocupaciones básicas en el lugar del hecho, del funcionario policial",
+        "opciones": [
+          "Preservar la Vida, Equipos, móviles policiales y protección de la escena.",
+          "Preservar la vida, protección de la escena delictiva.",
+          "Preservar la Vida, Equipos, móviles policiales, protección de la escena delictiva, seguridad de los presentes y del funcionario.",
+          "Preservar la vida, seguridad del funcionario y protección de la escena delictiva."
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "(PRESERVAR LA VIDA, SEGURIDAD DEL FUNCIONARIO Y PROTECCIÓN DE LA ESCENA DELICTIVA) Estas son las preocupaciones básicas enumeradas para el funcionario policial."
+      },
+      {
+        "texto": "La dirección procesal de la investigación ante un hecho delictivo es facultad del:",
+        "opciones": [
+          "Jefe de Comisaría.",
+          "Superior en Turno.",
+          "R.P.I.",
+          "Ninguna de las opciones es correcta."
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "(NINGUNA DE LAS OPCIONES ES CORRECTA) La dirección de la investigación es facultad del Fiscal del Ministerio Público de la Acusación según se menciona."
+      },
+      {
+        "texto": "Al momento de la recolección de un indicio de cualquier tipo, el funcionario policial actuante, lo asegurará mediante qué formularios homologados por el M.P.A.:",
+        "opciones": [
+          "Formulario Rótulo de Elemento Secuestrado, Formulario Cadena de Custodia Formulario y de Protección.",
+          "Formulario Acta de Procedimiento y Formularios de Protección",
+          "Formulario Rótulo de Elemento Secuestrado y Cadena de Custodia."
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "(FORMULARIO RÓTULO DE ELEMENTO SECUESTRADO Y CADENA DE CUSTODIA) Estos son los formularios homologados mencionados para asegurar los"
+      },
+      {
+        "texto": "El método de Bertillon fue un gran adelanto técnico oportunamente, para lograr identificación humana. Es por ello por lo que actualmente, sigue vigente, dado su uso universal.",
+        "opciones": [
+          "falso",
+          "verdadero"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "(FALS0) Se indica que si bien el método de Bertillon fue un adelanto, actualmente no sigue vigente de manera universal debido al cambio natural con el tiempo."
+      },
+      {
+        "texto": "LEGISLACIÓN POLICIAL  La Ley del Personal Policial clasifica a las faltas administrativas en: Faltas leves, Faltas graves y Faltas gravísimas.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "(falso) la ley del personal policial no clasifica las faltas administrativas en faltas gravísimas, solo las divide en faltas leves y faltas graves."
+      },
+      {
+        "texto": "El personal policial perteneciente al Escalafón General es el único investido de Autoridad Policial.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "(verdadero) el artículo 25 de la ley establece que el personal policial del escalafón general es el único investido de autoridad policial."
+      },
+      {
+        "texto": "Es competente para aplicar sanción directa de corrección:",
+        "opciones": [
+          "Superior que constata la falta",
+          "Jefe de Policía de la Provincia",
+          "Jefe Unidad Regional.",
+          "Ministro de Seguridad."
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "el superior que constata la falta es competente para aplicar sanción directa de corrección"
+      },
+      {
+        "texto": "El Superior que constate una falta grave debe aplicar sanción directa conforme al Decreto Reglamentario 461/15.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "(falso) no es verdadero que el superior deba aplicar sanción directa ante una falta grave según el decreto 461/15. Debe iniciar el sumario correspondiente."
+      },
+      {
+        "texto": "El empleado que está cumpliendo tareas diferentes se considera que está en situación de revista de Pasiva.",
+        "opciones": [
+          "falso",
+          "verdadero"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "(falso) el empleado que está cumpliendo tareas diferentes no se considera en situación de revista pasiva"
+      },
+      {
+        "texto": "Si una empleada se encuentra usufructuando licencia por maternidad, en qué situación de revista corresponde encuadrarla:",
+        "opciones": [
+          "Disponibilidad",
+          "Servicio Efectivo.",
+          "Pasiva.",
+          "Tareas Diferentes."
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "si una empleada policial se encuentra usufructuando licencia por maternidad, corresponde encuadrarla en situación de revista de: (SERVICIO EFECTIVO) La licencia por maternidad es una de las licencias especiales contempladas para el personal policial en actividad, por lo cual la situación de revista en ese caso es de servicio efectivo, no de pasiva ni de tarea diferente."
+      },
+      {
+        "texto": "El personal que se encuentra bajo Sumario Administrativo no resuelto",
+        "opciones": [
+          "No podrá participar del concurso",
+          "Podrá participar del concurso, pero en su caso el Ministerio de Seguridad deberá dictar una resolución dejando en suspenso la propuesta de ascenso, hasta la conclusión de este."
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "el personal que se encuentra bajo sumario administrativo no resuelto podrá participar del concurso, pero con la propuesta de ascenso suspendida hasta la conclusión del sumario."
+      },
+      {
+        "texto": "Los ascensos del Personal Policial se rigen por el principio constitucional de igualdad",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "(falso) los ascensos del personal policial se rigen por el principio constitucional de idoneidad, no por el de igualdad."
+      },
+      {
+        "texto": "Superioridad policial es la situación que tiene el personal con respecto a otro, debido a su grado jerárquico, antigüedad en el mismo o cargo que desempeña",
+        "opciones": [
+          "falso",
+          "verdadero"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "(verdadero) la superioridad policial es la situación que tiene el personal con respecto a otro, debido a su grado jerárquico, antigüedad en el mismo o cargo que desempeña."
+      },
+      {
+        "texto": "La Superioridad Policial es la situación que tiene el personal con respecto a otro, debido a:",
+        "opciones": [
+          "Número Identificatorio / Tiempo de Permanencia en la institución / Cargo que ocupa.",
+          "Grado Jerárquico / Antigüedad en el mismo / Cargo que desempeña",
+          "Grado Jerárquico / Promedio de Ascenso / Edad Cronológica"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "la superioridad policial es la situación que tiene el personal con respecto a otro, debido a su grado jerárquico, antigüedad en el mismo y cargo que desempeña."
+      },
+      {
+        "texto": "Superioridad por antigüedad es la que tiene el personal con respecto a otro del mismo grado, con relación a permanencia en el mismo.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "(verdadero) la superioridad por antigüedad es la que tiene el personal con respecto a otro del mismo grado, en relación a la permanencia en el mismo."
+      },
+      {
+        "texto": "La Superioridad Policial Jerárquica es la que tiene el personal con respecto a otro del mismo grado con relación a permanencia en el mismo",
+        "opciones": [
+          "falso",
+          "verdadero"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "(falso) la superioridad jerárquica no es la que tiene el personal con respecto a otro del mismo grado en relación a la permanencia, sino que es por haber alcanzado un grado más elevado."
+      },
+      {
+        "texto": "Superioridad jerárquica es la que tiene el personal con respecto a otro, por haber alcanzado un grado más elevado en la escala jerárquica",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "(verdadero) la superioridad jerárquica es la que tiene el personal con respecto a otro por haber alcanzado un grado más elevado en la escala jerárquica."
+      },
+      {
+        "texto": "La superioridad por cargo impone al subordinado la obligación de cumplir órdenes del superior",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "(verdadero) la superioridad por cargo impone al subordinado la obligación de cumplir órdenes del superior."
+      },
+      {
+        "texto": "Son deberes esenciales para el personal policial en actividad:",
+        "opciones": [
+          "La sujeción al régimen disciplinario policial / Aceptar grado, distinciones, o títulos concedidos por autoridad competente y de acuerdo con las disposiciones vigentes",
+          "La percepción de los sueldos, suplementos y demás asignaciones.",
+          "La presentación de recursos o reclamos según las normas que los reglamentan",
+          "Todas son correctas.",
+          "Ninguna es correcta."
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "entre los deberes esenciales mencionados se encuentran la sujeción al régimen disciplinario policial y aceptar grado, distinciones o títulos concedidos por autoridad competente"
+      },
+      {
+        "texto": "Son derechos esenciales para el personal policial en actividad:",
+        "opciones": [
+          "El destino inherente a cada jerarquía y especialidad o escalafón/ La percepción de los sueldos, suplementos y demás asignaciones.",
+          "La sujeción al régimen disciplinario policial.",
+          "Aceptar grado, distinciones, o títulos concedidos por autoridad competente y de acuerdo con las disposiciones vigentes",
+          "Todas son correctas.",
+          "Ninguna es correcta"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "entre los derechos esenciales mencionados se encuentran el destino inherente a jerarquía y escalafón, y la percepción de sueldos, suplementos y asignaciones."
+      },
+      {
+        "texto": "De acuerdo con la Ley 12.521 – Art 12: ¿Cuáles son los Escalafones que integrará el personal policial, según las funciones específicas?",
+        "opciones": [
+          "Escalafón Seguridad / Escalafón Mantenimiento / Escalafón Sanidad / Escalafón Técnico",
+          "Escalafón General / Escalafón Profesional / Escalafón Jurídico / Escalafón de Servicio.",
+          "Escalafón General / Escalafón Profesional / Escalafón Técnico / Escalafón de Servicios",
+          "Escalafón General / Escalafón Sanidad / Escalafón Técnico / Escalafón Servicios Especializados."
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "según el artículo 12, los escalafones que integra el personal policial son: general, profesional, técnico y de servicios."
+      },
+      {
+        "texto": "Estado Policial: es la situación Administrativa que resulta del conjunto de deberes y reglamentos dispuestos por leyes y estatutos para el personal policial de los Escalafones General y Profesionales exclusivamente",
+        "opciones": [
+          "falso",
+          "verdadero"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "(falso) el estado policial es la situación que resulta del conjunto de deberes y reglamentos para todo el personal policial, no sólo de los escalafones general y profesional."
+      },
+      {
+        "texto": "Ley 12.521 – Art. 80 Permisos:",
+        "opciones": [
+          "Autorización Informal otorgada por superior de turno por 2 horas al mes y 48 horas al año.",
+          "Autorización Formal otorgada por superior competente hasta 2 días por mes, y 6 días al año.",
+          "Autorización para eximir al personal policial de las obligaciones del servicio por tiempo indefinido",
+          "Ninguna es correcta."
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "Se entiende por permiso, la autorización formal dada al personal por un superior competente, eximiéndolo de las obligaciones del servicio por un lapso de hasta dos (2) días por mes y seis (6) días en el año, por cualquier razón atendible a juicio del concedente y no contemplada expresamente."
+      },
+      {
+        "texto": "Ley 12.521 – Art. 82 al 85 Licencias Policiales",
+        "opciones": [
+          "Anual Ordinaria / Especiales y Extraordinarias.",
+          "Especiales y Extraordinarias.",
+          "Anual Ordinaria / Especiales / Extraordinarias / Excepcionales.",
+          "Anual Ordinaria solamente"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "el artículo 82 al 85 establece que las licencias policiales son: anual ordinaria, especiales, extraordinarias y excepcionales"
+      },
+      {
+        "texto": "Una Falta Leve se Agrava cuando: Se produzcan alteraciones del orden interno (tome trascendencia y se vea afectada la institución)",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "(verdadero) una falta leve se agrava cuando se producen alteraciones del orden interno, según lo expuesto"
+      },
+      {
+        "texto": "Escala Jerárquica Policial: “es el conjunto de grados que puede ocupar el personal en los respectivos Escalafones",
+        "opciones": [
+          "falso",
+          "verdadero"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "(verdadero) la escala jerárquica policial es el conjunto de grados que puede ocupar el personal en los respectivos escalafones ART 2"
+      },
+      {
+        "texto": "Escala Jerárquica Policial: “es el conjunto de funciones que puede ocupar el personal en los respectivos Escalafones",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "(falso) la escala jerárquica no es el conjunto de funciones, sino de grados."
+      },
+      {
+        "texto": "La Escuela de Superior tiene como Misión:",
+        "opciones": [
+          "Dictar los cursos de perfeccionamiento para los agrupamientos coordinación y ejecución",
+          "Dictar los cursos de perfeccionamiento para los agrupamientos supervisión y dirección",
+          "Ninguna es correcta."
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "(falso) ninguna de las opciones describe correctamente la misión de la Escuela Superior de Seguridad Pública."
+      },
+      {
+        "texto": "La Escuela de Especialidades tiene como Misión:",
+        "opciones": [
+          "Dictar los cursos de perfeccionamiento para los agrupamientos coordinación y ejecución",
+          "Dictar los cursos de Perfeccionamiento para los agrupamientos supervisión y dirección.",
+          "Ninguna es correcta"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "la Escuela de Especialidades tiene como misión dictar cursos de perfeccionamiento para los agrupamientos coordinación y ejecución"
+      },
+      {
+        "texto": "Decreto 461/15 Clasificación de las Faltas Administrativas",
+        "opciones": [
+          "Graves / Agudas / Simples.",
+          "Leves / Graves / Gravísimas",
+          "Leves / Gravísimas.",
+          "Ninguna es correcta."
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "NINGUNA ES CORRECTA el Decreto 461/15 no menciona faltas gravísimas, sino que clasifica las faltas en leves y graves."
+      },
+      {
+        "texto": "El Personal Policial del Escalafón General es el Único investido de Autoridad Policial.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "(verdadero) el personal policial del Escalafón General es el único investido de autoridad policial, según lo estipulado. ART 25"
+      },
+      {
+        "texto": "Para poder participar de un concurso de ascenso policial, el personal debe estar habilitado",
+        "opciones": [
+          "falso",
+          "verdadero"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "(verdadero) para poder participar en un concurso de ascenso policial, el personal debe estar debidamente habilitado .ART 78"
+      },
+      {
+        "texto": "El Poder Ejecutivo, por Decreto, establecerá el número de vacantes por grado a cubrir, y la cantidad de jurados a intervenir en los concursos.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "(verdadero) el Poder Ejecutivo establecerá por decreto el número de vacantes por grado a cubrir y la cantidad de jurados a intervenir .ART74"
+      },
+      {
+        "texto": "Si Roberto concursa para el grado Inspector, participa para el Agrupamiento Conducción.",
+        "opciones": [
+          "falso",
+          "verdadero"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "(falso) si Roberto concursa para inspector, participa para el agrupamiento coordinación, no conducción."
+      },
+      {
+        "texto": "“VIOLENCIA DE GÉNERO” Violencia de Género Económica y Patrimonial: La que se dirige a ocasionar un menoscabo en los recursos económicos o patrimoniales de la mujer, a través de:",
+        "opciones": [
+          "La pérdida, sustracción, destrucción, retención o distracción indebida de objetos, instrumentos de trabajo, documentos personales, bienes, valores y derechos patrimoniales;",
+          "La limitación o control de sus ingresos, así como la percepción de un salario menor por igual tarea, dentro de un mismo lugar de trabajo",
+          "La pérdida, sustracción, destrucción, retención o distracción indebida de objetos, instrumentos de trabajo, documentos personales, bienes, valores y derechos patrimoniales, siempre que los mismos sean entregados a posterior a la autoridad policial o judicial competente",
+          "La administración de la posesión, tenencia o propiedad de sus bienes"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Aquella publicación o difusión de mensajes e imágenes estereotipados a través de cualquier medio masivo de comunicación, que de manera directa o indirecta promueva la explotación de mujeres o sus imágenes, injurie, difame, discrimine, deshonre, humille o atente contra la dignidad de las mujeres, como así también la utilización de mujeres, adolescentes y niñas en mensajes e imágenes pornográficas, legitimando la desigualdad de trato o construya patrones socioculturales reproductores de la desigualdad o generadores de violencia contra las mujeres, es...",
+        "opciones": [
+          "Violencia Mediática",
+          "Violencia Simbólica",
+          "Violencia Comunicacional"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Se entiende por violencia contra las mujeres:",
+        "opciones": [
+          "Toda conducta, acción u omisión, que de manera directa o indirecta, tanto en el ámbito público como en el privado, basada en una relación desigual de poder, que afecte su 230 vida, libertad, dignidad, integridad física, psicológica, sexual, económica o patrimonial, como así también su seguridad personal.-",
+          "Toda conducta que por acción y de manera directa ponga en desventaja a la mujer frente al varón.-",
+          "Toda conducta que atente contra la vida de las mujeres. Se lo conoce como Femicidio.-"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Según el Decreto Nro. 4.028/13, la limitación o pérdida del derecho al trabajo y educación es:",
+        "opciones": [
+          "Violencia Psicológica",
+          "Violencia Laboral",
+          "Ninguna de las anteriores"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Violencia institucional es:",
+        "opciones": [
+          "Aquella realizada por los/las funcionarios/as, profesionales, personal y agentes pertenecientes a cualquier órgano, ente o institución pública que tenga como fin retardar, obstaculizar o impedir que las mujeres tengan accesos a las políticas públicas y ejerzan derechos comprendidos en la ley.-",
+          "La que discrimina a las mujeres en los ámbitos de trabajo públicos o privados y que obstaculiza su acceso al empleo, contratación, acceso, estabilidad o permanencia en el mismo.",
+          "La que se dirige a ocasionar un menoscabo en los recursos económicos o patrimoniales de la mujer"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Amenazas, humillación, acoso, hostigamiento, vigilancia, insulto, celos excesivos, ridiculización... Son acciones que corresponden a la Violencia Psicológica contra la mujer.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "La violencia Institucional consiste en Acciones u Omisiones provenientes del Estado (incluyendo la conducta de sus agentes)",
+        "opciones": [
+          "falso",
+          "verdadero"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Juan es pareja de María. Él a veces se vuelve agresivo con ella. En reiteradas ocasiones, vuelve a casa alcoholizado y bajo esos efectos suele amenazar a María con lastimarla con un destornillador. A veces pareciera que fuera a matarla, pero luego se calma y finalmente María no resulta lesionada. Pero la doctrina indica que María sería víctima de Violencia Física.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "La violencia contra las mujeres, niñas y el colectivo LGBTIQ+ es generalizada, sistemática y tiene un fuerte arraigo cultural.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Cuando hablamos de ESTEREOTIPO nos referimos a una visión generalizada o preconcepción concerniente a los atributos, características o roles de los miembros de un grupo social, la cual hace innecesaria cualquier consideración de sus necesidades, deseos, habilidades y circunstancias individuales u específicas.",
+        "opciones": [
+          "falso",
+          "verdadero"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Cualquier sujeto de derechos puede ser víctima de violencia de género, según la ley 26.485",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "La violencia laboral contra las mujeres es aquella que discrimina a las mujeres sólo en los ámbitos de trabajo privados y que obstaculiza su acceso al empleo, contratación, ascenso, estabilidad, edad, apariencia física o la realización de un test de embarazo",
+        "opciones": [
+          "falso",
+          "verdadero"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "El vocablo Mujeres comprende a todas las personas independientemente de su expresión de género, conforme o no al sexo asignado al momento de nacer, e independientemente de su vivencia interna e individual, excluyendo la vivencia personal del cuerpo, y siempre que no involucre la modificación de la apariencia física corporal, cualquiera sea su orientación sexual, siempre que ello sea libremente escogido",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Es indiferente que los daños o lesiones hayan dejado secuelas o incapacidades para que sean consideradas violencia física. -",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "El sometimiento de la mujer agredida a esperas injustificadas, preguntas innecesarias, declaraciones reiteradas o no vinculadas al hecho denunciado, exámenes médicos repetidos excesivos o superfluos, entre otras conductas, se llama..",
+        "opciones": [
+          "Revictimización",
+          "Victimización Primaria",
+          "Agresión policial"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Se entiende por escucha activa:",
+        "opciones": [
+          "Ir formulando preguntas conforme se va desarrollando el relato de los hechos. -",
+          "Brindar atención, disponibilidad e interés por aquello que se relata, sin prejuzgar, y paralelamente prestar atención a los mensajes implícitos en la comunicación tanto gestuales como verbales. -",
+          "Intentar ponerse en el lugar del otro, es decir, pensar con la víctima estrategias posibles de acuerdo a su situación. -"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Ciclo de la Violencia contra la Mujer. Fase Nro. 2: Explosión de Violencia:",
+        "opciones": [
+          "Consiste siempre en agresiones físicas. -",
+          "Puede comenzar como violencia psicológica y terminar en golpes, lesiones e incluso la muerte. Esta fase es impredecible. -",
+          "Siempre termina en femicidio."
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Las medidas preventivas urgentes pueden ordenarse:",
+        "opciones": [
+          "A pedido del personal policial. -",
+          "Ninguna respuesta es correcta",
+          "De oficio o a pedido de parte"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "La violencia es un proceso que se da de manera continua",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "En nuestro país existe la Ley de Matrimonio Igualitario, registrada como Nro. 26.618. Esta legislación es la única que protege los derechos del colectivo LGBTI.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "La denuncia penal será obligatoria para toda persona que se desempeñe laboralmente en servicios asistenciales, sociales, educativos y de salud, en el ámbito público o privado, que con motivo o en ocasión de sus tareas tomaren conocimiento de que una mujer padece violencia siempre que los hechos no constituyan delito.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Ante una denuncia de paradero, la policía sólo recibirá la denuncia, las demás diligencias estarán a cargo del M.P.A.",
+        "opciones": [
+          "falso",
+          "verdadero"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Búsqueda de Personas. No hay ninguna norma que exija el transcurso de 12, 24 ni 48 horas para poder empezar la búsqueda.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "La Ley Argentina sobre Identidad de Género, promulgada en mayo de 2012, da a toda persona el derecho al reconocimiento de su género, al libre desarrollo de su persona conforme a su identidad de género, y a ser tratada de acuerdo con su identidad de género",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "El concepto de IDENTIDAD DE GÉNERO no tiene relación alguna con el de EXPRESIÓN DE GÉNERO.",
+        "opciones": [
+          "falso",
+          "verdadero"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "El nombre de pila adoptado deberá ser utilizado para la citación, registro, legajo, llamado y cualquier otra gestión o servicio, tanto en los ámbitos públicos como privados.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "La violencia laboral contra las mujeres es aquella que discrimina a las mujeres sólo en los ámbitos de trabajo privados y que obstaculiza su acceso al empleo, contratación, ascenso, estabilidad, edad, apariencia física o la realización de un test de embarazo.",
+        "opciones": [
+          "falso",
+          "verdadero"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "La cantidad de fases del ciclo de la violencia dependerá siempre de cada situación en particular",
+        "opciones": [
+          "falso",
+          "verdadero"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "La identidad personal es la percepción individual que una persona tiene sobre sí misma; es la conciencia del existir",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Para recepcionar una denuncia sobre violencia de género a un menor de edad, el mismo deberá siempre estar acompañado por su representante legal. -",
+        "opciones": [
+          "falso",
+          "verdadero"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "ACTUALIZACIÓN LEGAL   La citación tiene lugar en un primer momento de la I.P.P. y siempre que no fuere posible individualizar (identificar) presuntos responsables y testigos de un ilícito que se encuentren en el lugar del hecho.",
+        "opciones": [
+          "falso",
+          "verdadero"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "El arresto tiene lugar en un primer momento de la I.P.P. y siempre que no fuere posible individualizar (identificar) presuntos responsables y testigos de un ilícito que se encuentren en el lugar del hecho.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "El plazo máximo del arresto es hasta 12 hs.",
+        "opciones": [
+          "falso",
+          "verdadero"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "El plazo máximo del arresto es hasta 24 hs.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "ARTÍCULO 212 CPPSF: La policía no podrá detener a quien sorprenda en la flagrante comisión de un delito perseguible de oficio, en cuyo caso deberá dar inmediato aviso al fiscal.",
+        "opciones": [
+          "falso",
+          "VEDADERO"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "En la aprehensión en la comisión de un delito dependiente de Instancia privada, se deberá informar esta situación al titular del poder de instar",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": ". La acción penal se encuentra a cargo del juez, quien debe actuar de oficio",
+        "opciones": [
+          "falso",
+          "verdadero"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "El arresto, es la privación de la libertad personal con mantenimiento por un lapso máximo de 12hs.",
+        "opciones": [
+          "falso",
+          "verdadero"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "“Non bis in ídem”. Este principio se denomina:",
+        "opciones": [
+          "Juicio previo.",
+          "Principio de inocencia.",
+          "Principio de legalidad.",
+          "Ninguno de los anteriores"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "La acción de ejercicio privado se ejercerá:",
+        "opciones": [
+          "Por acción del fiscal",
+          "Por acción del personal policial.",
+          "Por vía de la querella."
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Una ley es una norma de comportamiento que puede ser dejada de lado a criterio de las personas y de la autoridad policial.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Una ley es una norma de comportamiento que no puede ser dejada de lado a criterio de las personas y de la autoridad policial.",
+        "opciones": [
+          "falso",
+          "verdadero"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Nuestra Repartición pertenece en su organización y dependencia a la órbita del poder judicia",
+        "opciones": [
+          "falso",
+          "verdadero"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Nuestra Repartición pertenece en su organización y dependencia a la órbita del poder legislativo",
+        "opciones": [
+          "falso",
+          "verdadero"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Las normas contenidas en la Constitución Nacional no tienen operatividad.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Las normas contenidas en la Constitución Nacional tienen operatividad.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "los principios que informan al Derecho Penal, pueden ser objeto o no de protección.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Los principios que informan al Derecho Penal, son objeto de protección.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": ". El límite a la actuación del Estado por ser acciones privadas de los hombres y en los cuales no puede entrometerse se desprenden de lo normado en el artículo 18 Carta Magna.",
+        "opciones": [
+          "falso",
+          "verdadero"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": ". El límite a la actuación del Estado por ser acciones privadas de los hombres y en los cuales no puede entrometerse se desprenden de lo normado en el artículo 19 Carta Magna.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "El personal procede en aprehensión frente a una falta y puede ejercer una medida de coacción directa y privación de libertad por un plazo de hasta 24 horas.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": ". El personal procede en aprehensión frente a una falta y puede ejercer una medida de coacción directa y privación de libertad por un plazo de hasta 12 horas.",
+        "opciones": [
+          "falso",
+          "verdadero"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "El personal policial detenta la facultad de recibir una denuncia conforme a su criterio y circunstancias del caso traído a su conocimiento y decisión",
+        "opciones": [
+          "falso",
+          "verdadero"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": ". El personal policial detenta la obligación de recibir una denuncia traída a su conocimiento",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "La contravención tiene menor importancia que el delito, dado que son acciones que no vulneran bienes jurídicos protegidos.",
+        "opciones": [
+          "falso",
+          "verdadero"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": ". La contravención tiene igual importancia que el delito, dado que son acciones que vulneran bienes jurídicos protegidos",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "El código Procesal Penal de la Provincia, prevé expresamente, que frente a una denuncia repetida el personal policial no reciba una denuncia.",
+        "opciones": [
+          "falso",
+          "verdadero"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "El código Procesal Penal de la Provincia, no prevé expresamente, que frente a una denuncia repetida el personal policial no reciba una denuncia.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Si un menor de edad, concurriera a realizar una denuncia el personal policial deberá requerirle la presencia de un representante legal, si esto no se subsana se encuentra facultado a no recepcionarla.",
+        "opciones": [
+          "falso",
+          "verdadero"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Frente a la comisión de una falta, un menor de 17 años de edad puede ser penado con arresto",
+        "opciones": [
+          "falso",
+          "verdadero"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": ". Frente a la comisión de una falta, un menor de 16 años de edad puede ser penado con arresto",
+        "opciones": [
+          "falso",
+          "verdadero"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": ". El imputado tiene derechos que nacen a partir del momento en que se realiza la audiencia imputativa",
+        "opciones": [
+          "falso",
+          "verdadero"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": ". El imputado tiene derechos que nacen a partir del momento en que nace su condición de tal.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "La acción de habeas corpus que gozan de especial protección constitucional, debe ser interpuesta por el propio afectado.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": "La acción de habeas corpus que gozan de especial protección constitucional, debe ser interpuesta por el propio afectado o cualquiera en su favor"
+      },
+      {
+        "texto": "La acción de amparo puede ser interpuesta por el afectado, el defensor del pueblo y las asociaciones para la protección de los datos personales y exigir su supresión, rectificación, confidencialidad o actualización.",
+        "opciones": [
+          "falso",
+          "verdadero"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": ". La acción de amparo puede ser interpuesta por el afectado, el defensor del pueblo y las asociaciones para la protección frente a una limitación u amenaza de la libertad ambulatoria.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "En la legítima defensa putativa será de ponderación la provocación del agredido",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "El delito de incumplimiento de los deberes de funcionarios públicos admite el tipo doloso y culposo",
+        "opciones": [
+          "falso",
+          "verdadero"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "El delito de incumplimiento de los deberes de funcionarios público admite el tipo doloso",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "PRÁCTICA POLICIAL . La Policía debe tomar toda denuncia de violencia familiar (de naturaleza civil) de cualquier tipo, en todo caso y cualquiera que fuese el sexo y/o género del damnificado, varón, mujer, trans o intersex-, aunque no hubiese acontecido delito alguno, y también, de haber habido lesiones leves, si la víctima no instó a la acción penal.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "La cadena de custodia: Por lo tanto, la cadena de custodia “debe garantizar la pureza de la evidencia desde el momento mismo de la recolección, puesto que estos elementos materiales probatorios pueden finalmente convertirse en pruebas cuya legalidad debe estar garantizada para que puedan ser controvertidas en Juicio y favorecer que el pronunciamiento de la autoridad competente, sea en la forma más precisa y justa posible.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "El arresto presenta como variable:",
+        "opciones": [
+          "Todas las opciones mencionadas son correctas.",
+          "Que las personas no se alejen del lugar.",
+          "La incomunicación.",
+          "El arresto con fines preventivos por el plazo de 24 horas."
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "El C.P.P.P.S.F prevé informar al imputado, aprehendido o detenido que cuenta con los derechos que dicho código le asiste. Esta acción, según la ley establece, se debe llevar a cabo:",
+        "opciones": [
+          "Inmediatamente.",
+          "Cuando el personal actuante considere.",
+          "Una vez se haya trasladado el procedimiento a dependencia policial."
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "El personal policial puede recibir declaración al imputado siempre que se cumpla/n la/s siguiente/s condición/es:",
+        "opciones": [
+          "Éste así lo haga espontáneamente, libremente y en presencia de su defensor.",
+          "Se haga en presencia de su defensor",
+          "Éste así lo haga espontánea y libremente."
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "En los casos donde no se tenga certeza cierta sobre la edad de la persona y se presuponga que la misma puede llegar a ser menor de edad.",
+        "opciones": [
+          "Será considerada menor hasta que se acredite su verdadera edad",
+          "Será considerado mayor si así lo considera el personal policial",
+          "No tiene influencia la edad respecto al procedimiento que se lleva a cabo."
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "El funcionario policial que tenga conocimiento de un delito en el que estuviera involucrado un menor de edad, debe comunicarlo al juez de menores y al Asesor de Menores dentro de las 24 horas. Si se tratare de un menor punible, también lo comunicará inmediatamente al Fiscal de Menores”.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "El personal policial que tenga conocimiento de un delito en donde un menor sea aprehendido, detenido o citado, además de las comunicaciones que se deben realizar, informará al menor involucrado, en un lapso de hasta 24 horas - bajo sanción de nulidad - los derechos que el Código Procesal de Menores le acuerda.",
+        "opciones": [
+          "falso",
+          "verdadero"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Denuncia - En todos los casos en que la denuncia se realice en sede policial y el denunciante sea víctima o representante legal de ésta, el funcionario policial actuante:",
+        "opciones": [
+          "Deberá leerle, entregarle y hacerle firmar al denunciante, copia de los derechos que le asisten a las víctimas contemplados en el CPPPSF",
+          "En los casos de ser el representante legal, hay que informar que debe hacerse presente la víctima para leerle, entregarle y hacerle firmar los derechos que le asiste",
+          "No es necesario notificarlo de los derechos que le asiste a la víctima, aunque sea denunciante y víctima o representante legal de la misma"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Son acciones Dependientes de Instancia Privada las que nacen de los delitos contra la integridad sexual (Arts. 119 - 120 y 130) cuando no resultara la muerte de la persona ofendida o derivara en lesiones gravísimas (Art. 91) del código mencionado.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Entrevista al Testigo – La misma se recibe, sin excepción bajo juramento.",
+        "opciones": [
+          "falso",
+          "verdadero"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Art. 255 C.P.P.P.S.F. / Comunicación Inmediata - En todos los casos en que se iniciara una Investigación Penal Preparatoria y se hubiera individualizado fehacientemente al imputado, deberán comunicarse las circunstancias que rezan en los incisos del mencionado artículo al:",
+        "opciones": [
+          "▪ Registro Único de Antecedentes Penales de la Provincia.",
+          "▪ Sr. Juez Interviniente en la causa.",
+          "▪ Fiscal Interviniente en la causa."
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "168 C.P.P.P.S.F. / Requisa – La requisa personal deberá justificarse fundadamente cuando hubiera motivos razonables para presumir que alguien oculta consigo cosas relacionadas con un delito. Antes de proceder con la requisa:",
+        "opciones": [
+          "Se lo invitará a exhibir el objeto cuya ocultación se presume.",
+          "No será necesario se lo invitare a exhibir el objeto cuya ocultación se presume.",
+          "El artículo 168 no contempla acción previa a la requisa."
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Ley 11452, Artículo 28 – C.P.M. “La edad de los menores se acredita con los documentos legales o, en su defecto, con el informe del médico de menores…”",
+        "opciones": [
+          "falso",
+          "VEDADERO"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Derechos Esenciales para el Personal Policial en actividad",
+        "opciones": [
+          "Los honores policiales que para el grado correspondan, de acuerdo con las reglamentaciones que rijan el ceremonial policial",
+          "La sujeción al régimen disciplinario policial.",
+          "Ejercer las facultades de mando y disciplinarias que, para el grado y cargo establece la reglamentación correspondiente"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "De acuerdo con el material de estudio brindado, las etapas básicas del proceso de evidencia son: Extracción o recolección, Preservación y embalaje, Transporte o traslado y Traspaso a laboratorios para su análisis, fiscalías u Oficina de Gestión Judicial para su custodia, custodia y preservación final hasta que se realice el debate",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "La Oficina de Naciones Unidas contra la Droga y el Delito (UNDOC) ha dicho que los agentes de las fuerzas del orden, entre otros, son los primeros en intervenir en la escena del delito y desempeñan un papel fundamental en todo el proceso de investigación de la escena del delito, por lo cual una formación adecuada en criminalística para llevar a cabo esas tareas es fundamental",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Dentro de los derechos que le asiste al imputado, se encuentra:",
+        "opciones": [
+          "Conferenciar en forma privada y libre con su defensor antes de prestar declaración o realizar un acto que requiera su presencia.",
+          "Conferenciar en todo momento en forma privada y libre con presencia del personal policial.",
+          "Conferenciar en todo momento en forma libre con su defensor en presencia del Fiscal de la causa"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Estado Policial - Es la situación jurídica que resulta del conjunto de deberes y derechos establecidos por las leyes y decretos, únicamente para el personal policial del escalafón general.",
+        "opciones": [
+          "falso",
+          "verdadero"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Presentar y actualizar anualmente declaración jurada de sus bienes y las modificaciones que se produzcan en su situación patrimonial y de la de su cónyuge, si la tuviera, es un/a:",
+        "opciones": [
+          "Deber",
+          "Derecho",
+          "Decisión voluntaria."
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Para el personal policial el destino inherente a cada jerarquía y especialidad o escalafón es un:",
+        "opciones": [
+          "Deber.",
+          "Derecho",
+          "Decisión voluntaria."
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "El Código Procesal del Menor de la Provincia de Santa Fe contempla que la edad del menor se acredita solamente con los documentos legales.",
+        "opciones": [
+          "falso, también puede acreditarse con el informe del médico de menores.",
+          "verdadero, la única acreditación de su edad es por los documentos legales"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Art. 54 Código Procesal de Menores - Ante la aprehensión de un menor, se comunicará tal circunstancia a sus padres, tutor o guardadores en el término de:",
+        "opciones": [
+          "Dos Horas.",
+          "Cuatro Horas.",
+          "Seis Horas."
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "El Código Procesal del Menor P.S.F. – La autoridad policial puede recibir simple interrogatorio sumario al menor, si lo consintiera, y al solo efecto de orientar la investigación.",
+        "opciones": [
+          "falso",
+          "verdadero"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Código Procesal del Menor de la Provincia de Santa Fe – Todas las diligencias prevencionales deben efectuarse en un plazo de quince días y concluido el mismo serán remitidas a sede judicial, salvo se haya dispuesto la internación del menor, en cuyo caso la investigación debe ser elevada en un plazo máximo de 48 horas.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Facultad de Denunciar – Solamente aquella persona que fuera víctima de un delito perseguible de oficio, podrá denunciarlo ante el Ministerio Público de la Acusación o las autoridades policiales. Si fuera de instancia privada podrá realizarla el titular de poder instar",
+        "opciones": [
+          "falso, toda persona que tuviera noticia de un delito perseguible de oficio puede realizarla",
+          "verdadero, sólo la víctima puede denunciar."
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Artículo 273 el C.P.P.S.F. contempla que es obligación expedir al denunciante copia o certificación de la denuncia realizada.",
+        "opciones": [
+          "falso",
+          "verdadero"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Las entrevistas a testigos deben ser firmada por el personal policial y el entrevistado, si éste no sabe leer se deja constancia y se procede a la lectura a viva voz, de no saber firmar, se deja constancia y se firma solo por el personal policial.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "TIRO  Arma de fuego: la que utiliza la energía de los gases producidos por la deflagración de la pólvora para impulsar un proyectil a distancia.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Arma de puño de uno o dos cañones de ánima rayada, con su recámara alineada permanentemente con el cañón, puede ser de carga tiro a tiro, de repetición o semiautomática.",
+        "opciones": [
+          "Pistola.",
+          "Revolver.",
+          "Escopeta."
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Arma de hombro de uno o dos cañones de ánima lisa, que se carga normalmente con cartuchos conteniendo perdigones.",
+        "opciones": [
+          "Escopeta.",
+          "FMK3.",
+          "FAL"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Arma en la que es necesario oprimir el disparador por cada disparo y el ciclo de carga y descarga se efectúa sin la intervención del tirador.",
+        "opciones": [
+          "Repetición.",
+          "Semiautomática.",
+          "Automática"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Armas de simple acción: arma de fuego que para funcionar requiere al menos en el inicio, de la intervención previa del tirador para armar su mecanismo de disparo. Debe ser preparada o amartillada",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Las armas cortas que posean este sistema podrán dispararse de dos maneras. Montando manualmente el martillo antes de presionar el disparador o presionando el disparador sin montar el martillo.",
+        "opciones": [
+          "Simple Acción.",
+          "Doble Acción.",
+          "Simple Y Doble Acción."
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Arma de puño de ánima estriada que poseen una serie de recámaras en un cilindro o tambor giratorio montado coaxialmente con el cañón, y un mecanismo hace girar el tambor de modo tal que las recámaras son sucesivamente alineadas con el ánima del cañón.",
+        "opciones": [
+          "Revolver",
+          "Pistola.",
+          "Pistolón."
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Acción de llevar el arma en condición de uso inmediato en lugares públicos o de acceso público.",
+        "opciones": [
+          "Portación De Arma De Fuego",
+          "Transporte De Arma De Fuego",
+          "Tenencia De Arma De Fuego"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Acerrojamiento incompleto: casi siempre se da cuando el tirador acompaña la corredera y no permite que esta vuelva a su posición original aprovechando toda la fuerza del resorte recuperador. Solución: se golpea con la palma de la mano la corredera (desde el alza hacia el guión)",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Falla de munición: estando el cartucho en recámara, al presionar el disparador se produce la percusión, pero sin concretarse el disparo. Aquí estamos ante una falla de munición por defectos en la producción. Solución: se golpea la base del cargador hasta sentir el clásico “click” que nos indica que el mismo está retenido.",
+        "opciones": [
+          "falso",
+          "verdadero"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Falla de munición: estando el cartucho en recámara, al presionar el disparador se produce la percusión, pero sin concretarse el disparo. Aquí estamos ante una falla de munición por defectos en la producción. Solución: se acciona la corredera y se expulsa el cartucho fallado, alimentando uno nuevo. Si ante una nueva presión en el disparador el disparo no se produce, estamos quizás ante una falla de la aguja percutora.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Recarga táctica: se utiliza cuando, en una situación de combate, se ha disparado toda la munición del cargador y el arma ha quedado abierta. Si además estamos bajo el alcance del arma oponente, esto será una clara situación crítica.",
+        "opciones": [
+          "falso",
+          "verdadero"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Según la resistencia balística de los materiales utilizados en blindajes, el nivel rb2. Indique qué capacidad de protección posee.",
+        "opciones": [
+          "▪ Proyectiles calibre .357 mg de alta velocidad y 9 mm de media velocidad.",
+          "▪ Proyectiles calibre .22 y .38 SPL.",
+          "▪ Proyectiles calibre .357 mg de baja velocidad y 9 mm de baja velocidad."
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Políticas en el uso de la fuerza Indique cuales serían los elementos necesarios para considerar antes de hacer uso de la fuerza:",
+        "opciones": [
+          "Aptitud, Distancia, Peligro inminente y Exclusión de otra solución razonable",
+          "Actitud, Recorrido, Riesgo apremiante e Inclusión de otra solución razonable.",
+          "Aptitud y exclusión de otra solución razonable.",
+          "Capacidades actitudinales, trayectoria e Inclusión de otra solución razonable."
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Principios fundamentales para el uso de la fuerza y de armas de fuego. La policía para el uso de la fuerza se basa en los siguientes principios:",
+        "opciones": [
+          "Legalidad, Necesidad, Proporcionalidad y Ética.",
+          "Necesidad y Proporcionalidad.",
+          "Legalidad y Ética.",
+          "Ninguna es correcta."
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Munición: Designación genérica de un conjunto de cartuchos o tiros.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Arma de repetición: Es el arma de fuego en la que el ciclo de carga y descarga de la recámara se efectúa mecánicamente por acción del tirador, estando acumulados los cartuchos en un almacén cargador.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Pistola: es el arma de puño de 1 ó 2 cañones de ánima rayada, con su recámara alineada permanentemente con el cañón. La pistola puede ser de carga tiro a tiro, de repetición o semiautomática.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Recarga crítica o de emergencia: Se utiliza cuando, en una situación de combate, se ha disparado toda la munición del cargador y el arma ha quedado abierta.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Se utiliza cuando el policía, durante el combate, ha disparado varias veces, pero no sabe exactamente la cantidad de munición que le queda en el cargador, o realizó varios disparos y necesita tener más capacidad de fuego.",
+        "opciones": [
+          "Recarga crítica o de emergencia.",
+          "Recarga táctica."
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Arma de hombro o larga: es el arma de fuego portátil que para su empleo normal requiere estar apoyada en el hombro del tirador y el uso de ambas manos.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Escopeta: es el arma de puño de 1 ó 2 cañones de ánima lisa, que se carga normalmente con cartuchos conteniendo perdigones.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Vaina servida: es la vaina “vacía” (plástica, metálica o combinada) de un cartucho, luego de ser disparada.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Carabinas o fusiles: uso civil: cualquiera de ellos (tiro a tiro, de repetición y semiautomático) hasta el calibre 22 lr –largo o long rifle- incluido.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Son armas de uso prohibido aquellas armas de fuego o de lanzamiento disimuladas (lápices, estilográficas, cigarreras, bastones, etc.).",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Seguridad en los tiradores. Se debe considerar cada arma como cargada hasta que se haya comprobado personalmente lo contrario.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Seguridad en los tiradores. Usar siempre protector visual y auditivo mientras se realizan ejercicios con fuego real. Excepto en los casos de realizar la limpieza y desarme del arma.",
+        "opciones": [
+          "falso",
+          "verdadero"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Seguridad en los tiradores. Si se llega al polígono con el arma cargada, no se descarga hasta que el instructor no lo autoriza y controla.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
+      },
+      {
+        "texto": "Seguridad en los tiradores. Iniciado cada ejercicio, para hablar con el instructor se levanta la mano débil, sin darse vuelta.",
+        "opciones": [
+          "verdadero",
+          "falso"
+        ],
+        "respuestaCorrecta": 2,
+        "justificacion": ""
       }
     ]
   }
