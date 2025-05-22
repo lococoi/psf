@@ -19,7 +19,9 @@
         "content": "Listado de certificados disponibles para ser retirados en Escuela de Investigaciones Sede Rosario en el horario de 8 a 13hs de Lunes a Viernes.",
         "imageUrl": "",
         "links": [
-            "https://drive.google.com/file/d/1Kkq8X8UJoj2z2iKWVA4eUf0x4VKaw5eC/view?usp=sharing"
+            {
+                "listado en PDF": "https://drive.google.com/file/d/1Kkq8X8UJoj2z2iKWVA4eUf0x4VKaw5eC/view?usp=sharing"
+            }
         ],
         "publishedAt": "2025-05-21T15:30:00Z"
     }
