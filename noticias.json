@@ -1,20 +1,24 @@
 {
-  "show": 1,
-  "id": 0,
-  "title": "exámenes finales de actualización y/o perfeccionamiento 2025",
-  "tag": "escuela de especialidades",
-  "summary": "exámenes finales correspondientes al 1er llamado del curso de actualización y/o perfeccionamiento ciclo 2025",
-  "content": "Se adjunta información correspondiente a exámenes finales relacionados al 1er llamado del curso de actualización y/o perfeccionamiento ciclo 2025 perteneciente a esta Escuela de Especialidades en Seguridad. Por favor leer con atención. \nResolución 05/2025\nCronograma\nExamen Final Integrador\nInformamos a todos los alumnos que el Examen Final Integrador se desarrollará en la Sala de Informática de las Sedes Rosario y Recreo. A continuación, se detallan los aspectos más relevantes:\nEstructura del Examen\nEl examen constará de 40 preguntas, distribuidas en 8 materias (5 preguntas), solo escalafón general.\nEscalafón Profesionales, Técnicos y/o Servicios (35 preguntas distribuidas en 7 materias).\nLas preguntas serán de múltiple choice y/o verdadero/falso, seleccionadas de forma aleatoria.\nPara aprobar, el estudiante deberá:\nObtener al menos 2 respuestas correctas por materia.\nAlcanzar un 60% de respuestas correctas en total.\n🔁 Recuperatorios\nSi el alumno no alcanza el 60%, deberá rendir todas las materias en la instancia recuperatoria.\nSi alcanza el 60% general, pero no aprueba alguna materia, solo deberá rendir la/s materia/s desaprobadas.\n📩 Notificación de Resultados\nLos resultados serán notificados a través de la plataforma Moodle, al finalizar la jornada de cada jerarquía.\n🔍 Instancia de Revisión Visual\nSolo para alumnos reprobados, se habilitará una instancia de revisión visual del examen del 9 al 13 de junio.\nLos interesados deberán presentarse en la sede donde cursan, donde se labrará un acta con los datos y firma del alumno.\n🗓 Recuperatorio Final\nLa instancia recuperatoria se llevará a cabo del 11 al 14 de agosto, para ambos tramos del curso y todas las jerarquías.\nLa modalidad del examen será informada oportunamente.\nAnte cualquier duda, consultar a escueladeespecialidades@isepsantafe.edu.ar.",
-  "imageUrl": "",
-  "publishedAt": "2025-05-16T15:30:00Z"
-},
-{
-  "show": 0,
-  "id": 1,
-  "title": "disponibles listados para retirar en sede rosario",
-  "tag": "escuela de investigaciones",
-  "summary": "ya se pueden retirar certificados de lunes a viernes de 8 a 13hs",
-  "content": "Listado de certificados disponibles para ser retirados en Escuela de Investigaciones Sede Rosario en el horario de 8 a 13hs de Lunes a Viernes.",
-  "imageUrl": "",
-  "publishedAt": "2025-05-21T15:30:00Z"
+  [
+    {
+      "show": 1,
+      "id": 0,
+      "title": "exámenes finales de actualización y/o perfeccionamiento 2025",
+      "tag": "escuela de especialidades",
+      "summary": "exámenes finales correspondientes al 1er llamado del curso de actualización y/o perfeccionamiento ciclo 2025",
+      "content": "Se adjunta información correspondiente a exámenes finales relacionados al 1er llamado del curso de actualización y/o perfeccionamiento ciclo 2025 perteneciente a esta Escuela de Especialidades en Seguridad. Por favor leer con atención. \nResolución 05/2025\nCronograma\nExamen Final Integrador\nInformamos a todos los alumnos que el Examen Final Integrador se desarrollará en la Sala de Informática de las Sedes Rosario y Recreo. A continuación, se detallan los aspectos más relevantes:\nEstructura del Examen\nEl examen constará de 40 preguntas, distribuidas en 8 materias (5 preguntas), solo escalafón general.\nEscalafón Profesionales, Técnicos y/o Servicios (35 preguntas distribuidas en 7 materias).\nLas preguntas serán de múltiple choice y/o verdadero/falso, seleccionadas de forma aleatoria.\nPara aprobar, el estudiante deberá:\nObtener al menos 2 respuestas correctas por materia.\nAlcanzar un 60% de respuestas correctas en total.\n🔁 Recuperatorios\nSi el alumno no alcanza el 60%, deberá rendir todas las materias en la instancia recuperatoria.\nSi alcanza el 60% general, pero no aprueba alguna materia, solo deberá rendir la/s materia/s desaprobadas.\n📩 Notificación de Resultados\nLos resultados serán notificados a través de la plataforma Moodle, al finalizar la jornada de cada jerarquía.\n🔍 Instancia de Revisión Visual\nSolo para alumnos reprobados, se habilitará una instancia de revisión visual del examen del 9 al 13 de junio.\nLos interesados deberán presentarse en la sede donde cursan, donde se labrará un acta con los datos y firma del alumno.\n🗓 Recuperatorio Final\nLa instancia recuperatoria se llevará a cabo del 11 al 14 de agosto, para ambos tramos del curso y todas las jerarquías.\nLa modalidad del examen será informada oportunamente.\nAnte cualquier duda, consultar a escueladeespecialidades@isepsantafe.edu.ar.",
+      "imageUrl": "",
+      "publishedAt": "2025-05-16T15:30:00Z"
+    },
+    {
+      "show": 0,
+      "id": 1,
+      "title": "disponibles listados para retirar en sede rosario",
+      "tag": "escuela de investigaciones",
+      "summary": "ya se pueden retirar certificados de lunes a viernes de 8 a 13hs",
+      "content": "Listado de certificados disponibles para ser retirados en Escuela de Investigaciones Sede Rosario en el horario de 8 a 13hs de Lunes a Viernes.",
+      "imageUrl": "",
+      "publishedAt": "2025-05-21T15:30:00Z"
+    }
+  ]
 }
