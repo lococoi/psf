@@ -2435,16 +2435,6 @@
     "preguntas": [
       {
         "tema": 0,
-        "texto": "",
-        "opciones": [
-          "",
-          ""
-        ],
-        "respuestaCorrecta": 0,
-        "justificacion": ""
-      },
-      {
-        "tema": 0,
         "texto": "Seguridad en los tiradores. Si se llega al polígono con el arma cargada, no se descarga hasta que el instructor no lo autoriza y controla.",
         "opciones": [
           "verdadero",
