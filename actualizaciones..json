@@ -13,7 +13,7 @@
   ],
   "alerta": {
     "tipo": false,
-    "title": "hola mundo",
-    "txt": "texto"
+    "title": "",
+    "txt": ""
   }
 }
