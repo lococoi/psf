@@ -1,4 +1,6 @@
-Políticas de Privacidad de PSF adicionales
+## PSF adicionales
+
+**Políticas de Privacidad de PSF adicionales**
 
 Fecha de última actualización: 21 de mayo de 2025
 
@@ -25,7 +27,7 @@ En PSF adicionales, respetamos tu privacidad, por ello, queremos informarte sobr
 
     Te recomendamos encarecidamente revisar el siguiente documento de GitHub para comprender cómo se maneja la información durante los procesos de actualizaciones.
 
-    * Política de Privacidad de GitHub (https://docs.github.com/en/site-policy/privacy-policies)
+    * [Política de Privacidad de GitHub](https://docs.github.com/en/site-policy/privacy-policies) (https://docs.github.com/en/site-policy/privacy-policies)
 
 4.  Suscripciones a través de Google Play Billing:
 
@@ -36,8 +38,8 @@ En PSF adicionales, respetamos tu privacidad, por ello, queremos informarte sobr
 
     Te recomendamos encarecidamente revisar los siguientes documentos de Google para comprender cómo se maneja tu información durante el proceso de suscripción:
 
-    * Términos de Servicio de Google Play (https://play.google.com/intl/ALL\_es/about/play-terms/)
-    * Política de Privacidad de Google (https://policies.google.com/terms?hl=es)
+    * [Términos de Servicio de Google Play](https://play.google.com/intl/ALL_es/about/play-terms/) (https://play.google.com/intl/ALL\_es/about/play-terms/)
+    * [Política de Privacidad de Google](https://policies.google.com/terms?hl=es) (https://policies.google.com/terms?hl=es)
 
 5.  Información que AdMob podría recopilar (sin intervención directa de nuestra aplicación):
 
@@ -59,4 +61,4 @@ En PSF adicionales, respetamos tu privacidad, por ello, queremos informarte sobr
 
 8.  Contacto:
 
-    Si tienes alguna pregunta o inquietud sobre esta política de privacidad, puedes contactarnos a través de lococoi@proton.me.
+    Si tienes alguna pregunta o inquietud sobre esta política de privacidad, puedes contactarnos a través de [lococoi@proton.me](emailto:lococoi@proton.me).
