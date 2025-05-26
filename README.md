@@ -61,4 +61,4 @@ En PSF adicionales, respetamos tu privacidad, por ello, queremos informarte sobr
 
 8.  Contacto:
 
-    Si tienes alguna pregunta o inquietud sobre esta política de privacidad, puedes contactarnos a través de [lococoi@proton.me](emailto:lococoi@proton.me).
+    Si tienes alguna pregunta o inquietud sobre esta política de privacidad, puedes contactarnos a través de [lococoi@proton.me](mailto:lococoi@proton.me).
