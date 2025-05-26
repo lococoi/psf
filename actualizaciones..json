@@ -2,17 +2,17 @@
   "actualizacion": [
     {
       "version": 107,
-      "tipo": 0,
+      "tipo": true,
       "ads": true
     },
     {
       "version": 106,
-      "tipo": 0,
+      "tipo": false,
       "ads": true
     }
   ],
   "alerta": {
-    "tipo": 0,
+    "tipo": false,
     "title": "hola mundo",
     "txt": "texto"
   }
