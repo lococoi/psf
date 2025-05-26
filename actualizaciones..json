@@ -1,1 +1,19 @@
-
+{
+  "actualizacion": [
+    {
+      "version": 105,
+      "tipo": 0,
+      "ads": true
+    },
+    {
+      "version": 105,
+      "tipo": 0,
+      "ads": true
+    }
+  ],
+  "alerta": {
+    "tipo": 0,
+    "title": "hola mundo",
+    "txt": "texto"
+  }
+}
