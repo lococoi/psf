@@ -1,6 +1,6 @@
 [
   {
-    "habilitado": true,
+    "habilitado": false,
     "nombre": "oficial ◊",
     "preguntas": [
       {
@@ -2430,7 +2430,7 @@
     ]
   },
   {
-    "habilitado": true,
+    "habilitado": false,
     "nombre": "subinspector ◊◊",
     "preguntas": [
       {
