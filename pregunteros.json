@@ -1,6 +1,21 @@
 [
   {
-    "habilitado": true,
+    "habilitado": false,
+    "nombre": "intelectual",
+    "preguntas": [
+      {
+        "tema": 0,
+        "texto": "",
+        "opciones": [
+          "",
+          ""
+        ],
+        "justificacion": ""
+      }
+    ]
+  },
+  {
+    "habilitado": false,
     "nombre": "oficial ◊",
     "preguntas": [
       {
