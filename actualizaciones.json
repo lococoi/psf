@@ -1,1 +1,19 @@
-{"version":107,"tipo":2,"ads":true}
+{
+  "actualizacion": [
+    {
+      "version": 105,
+      "tipo": false,
+      "ads": true
+    },
+    {
+      "version": 108,
+      "tipo": false,
+      "ads": true
+    }
+  ],
+  "alerta": {
+    "tipo": false,
+    "title": "",
+    "txt": ""
+  }
+}
