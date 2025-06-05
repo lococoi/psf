@@ -14,6 +14,6 @@
   "alerta": {
     "tipo": true,
     "title": "Notificación",
-    "txt": "Hemos notado que algunos usuarios han tenido problemas al guardar anuncios, la mejor forma de solucionar esto es suscribiéndote a premium. También notamos que algunas personas no pueden abrir la aplicación, por lo que se creó una actualización que está pendiente a ser publicada."
+    "txt": "Hemos notado que algunos usuarios han tenido problemas al guardar anuncios, la mejor forma de solucionar esto es suscribiéndote a premium.\nTambién notamos que algunas personas no pueden abrir la aplicación, por lo que se creó una actualización que está pendiente a ser publicada."
   }
 }
