@@ -14,5 +14,6 @@
   "alerta": {
     "tipo": true,
     "title": "Notificación",
-    "txt": "Hemos notado que algunos usuarios han tenido problemas al guardar anuncios, si bien estamos trabajando en solucionarlo, la mejor forma de solucionar esto es suscribiéndote a premium, haciéndolo ahora obtendras una prueba gratuita de 5 días.\nTambién notamos que algunas personas no pueden abrir la aplicación, por lo que se creó una actualización que está pendiente a ser publicada."  }
+    "txt": "Hemos notado que algunos usuarios han tenido problemas al guardar anuncios, si bien estamos trabajando en solucionarlo, la mejor forma de solucionar esto es suscribiéndote a premium, haciéndolo ahora obtendras una prueba gratuita de 5 días.\nTambién notamos que algunas personas no pueden abrir la aplicación, por lo que se creó una actualización que está pendiente a ser publicada."
+  }
 }
