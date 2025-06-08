@@ -13,6 +13,6 @@
   ],
   "alerta": {
     "tipo": true,
-    "title": "Notificación",
-    "txt": "Hemos notado que algunos usuarios han tenido problemas al guardar anuncios, si bien estamos trabajando en solucionarlo, la mejor forma de solucionar esto es suscribiéndote a premium, haciéndolo ahora obtendras una prueba gratuita de 5 días.\nTambién notamos que algunas personas no pueden abrir la aplicación, por lo que se creó una actualización que está pendiente a ser publicada."  }
+    "title": "Notificación 8/6/25",
+    "txt": "Se adaptadó la aplicación a todos los dispositivos, por lo que ahora funciona en los dispositivos que antes no.\nAdemás, en uno o dos días se subirá una actualización que corrige un error que no se cargaba el anuncio al guardar un adicional."  }
 }
