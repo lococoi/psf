@@ -24,5 +24,20 @@
       }
     ],
     "publishedAt": "2025-05-21T15:30:00Z"
+  },
+  {
+    "show": 1,
+    "id": 2,
+    "title": "decreto de vacantes ascensos 2024",
+    "tag": "escuela de investigaciones",
+    "summary": "listado de vacantes de ascensos 2024",
+    "content": "Decreto de vacantes para ascenso 2024",
+    "imageUrl": "",
+    "links": [
+      {
+        "Decreto en PDF": "https://drive.google.com/file/d/1Wf08UxH2QSFxlo2H6Kd3GorI2eSd-6jl/view?usp=drivesdk"
+      }
+    ],
+    "publishedAt": "2025-06-11T11:00:00Z"
   }
 ]
