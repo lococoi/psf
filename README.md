@@ -51,14 +51,26 @@ En PSF adicionales, respetamos tu privacidad, por ello, queremos informarte sobr
 
     Reiteramos la importancia de revisar la Política de Privacidad de Google para comprender cómo AdMob utiliza esta información.
 
-6.  No compartimos información personal:
+6.  Uso de Google Drive para copias de seguridad (opcional)
+    Nuestra aplicación ofrece la funcionalidad opcional de realizar copias de seguridad de los adicionales que hayas guardado, directamente en tu cuenta de Google Drive.
 
+    * Totalmente opcional: Esta función requiere tu consentimiento explícito para iniciar sesión con tu cuenta de Google. Si decides no usarla, la funcionalidad principal de la aplicación no se verá afectada.
+    * Acceso limitado y controlado por el usuario: Cuando habilitas esta función, la aplicación solicita acceso exclusivamente a una carpeta oculta y privada creada por la propia aplicación dentro de tu Google Drive (Drive.SCOPE_APPFOLDER). Esto significa que solo la          aplicación puede ver y gestionar el contenido de esa carpeta específica.
+    * Privacidad de tus datos: PSF adicionales no tiene acceso ni conocimiento del contenido de las copias de seguridad que realizas. La aplicación simplemente facilita la transferencia de tus datos entre tu dispositivo y tu Google Drive. Nosotros no podemos ver,            acceder,     ni almacenar ningún archivo que guardes en tu Drive, ni tenemos acceso a ninguna otra parte de tu Google Drive personal. La gestión y seguridad de esos datos dentro de Google Drive se rige por la Política de Privacidad de Google.
+    * No recopilación de datos: No recopilamos ni almacenamos en nuestros servidores ninguna información de las copias de seguridad ni de tu cuenta de Google Drive.
+    
+    Te recomendamos revisar la Política de Privacidad de Google para comprender cómo maneja Google tu información cuando utilizas Google Drive y las Condiciones del Servicio de Google Drive.
+
+    * [Condiciones del Servicio de Google Drive](https://www.google.com/drive/terms-of-service/) (https://www.google.com/drive/terms-of-service)
+
+8.  No compartimos información personal:
+   
     Dado que PSF adicionales no recopila información personal directamente, no compartimos ningún dato personal con terceros. La información relacionada con las suscripciones es gestionada directamente por Google Play Store.
 
-7.  Cambios en esta política de privacidad:
+9.  Cambios en esta política de privacidad:
 
     Podemos actualizar esta política de privacidad en el futuro para reflejar cambios en nuestras prácticas o requisitos legales. Te notificaremos cualquier cambio significativo publicando la nueva política en esta página o a través de un aviso en la aplicación. Te recomendamos revisar esta política periódicamente.
 
-8.  Contacto:
+10.  Contacto:
 
-    Si tienes alguna pregunta o inquietud sobre esta política de privacidad, puedes contactarnos a través de [lococoi@proton.me](mailto:lococoi@proton.me).
+     Si tienes alguna pregunta o inquietud sobre esta política de privacidad, puedes contactarnos a través de [lococoi@proton.me](mailto:lococoi@proton.me).
