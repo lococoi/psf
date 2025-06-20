@@ -1,4 +1,4 @@
-## [PSF adicionales](https://play.google.com/apps/testing/lococoi.psf)
+## [PSF adicionales]([https://play.google.com/apps/testing/lococoi.psf](https://play.google.com/store/apps/details?id=lococoi.psf))
 
 **Políticas de Privacidad de PSF adicionales**
 
