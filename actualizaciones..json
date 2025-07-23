@@ -12,7 +12,7 @@
     }
   ],
   "alerta": {
-    "tipo": false,
+    "tipo": true,
     "title": "Notas de versión",
     "txt": "· Se quitó la sección de noticias.\n· Se corrigió un error que no asignaba las horas extraordinarias de los feriados.\n· A partir del 1 de octubre dejará de ser gratuito el modo IA.\nPara poder acceder al modo IA, sin publicidad y más funciones; recordá que en la pestaña de suscripción podés acceder a premium a partir de U$S 1,50."
   }
