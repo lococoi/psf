@@ -1,0 +1,48 @@
+{
+    "control_actualizaciones": [
+    {
+        "version": 125,
+        "obl_definitivamente": true,
+        "obl_menor_a": 0,
+        "opcional_desde_version": 0
+    },
+    {
+        "version": 124,
+        "obl_definitivamente": false,
+        "obl_menor_a": 120,
+        "opcional_desde_version": 0
+    },
+    {
+        "version": 123,
+        "obl_definitivamente": false,
+        "obl_menor_a": 0,
+        "opcional_desde_version": 120
+    }
+    ],
+    "alertas": [
+    {
+        "id": "alerta_critica_001",
+        "global": true,
+        "version_exacta":-1,
+        "version_inferior_a":-1,
+        "titulo": "Aviso Urgente",
+        "texto": "Hemos detectado un problema grave. Por favor, lee esto."
+    },
+    {
+        "id": "nueva_caracteristica_002",
+        "global": false,
+        "version_exacta":001,
+        "version_inferior_a": 125,
+        "titulo": "¡Nuevas Funciones!",
+        "texto": "Explora la nueva sección de 'Mis favoritos' disponible en la versión 125."
+    },
+    {
+        "id": "promo_navidad_003",
+        "global": false,
+        "version_exacta": 126,
+        "version_inferior_a":-1,
+        "titulo": "¡Promo de Navidad!",
+        "texto": "Celebra con nosotros con un 50% de descuento en la suscripción premium. Solo por tiempo limitado."
+    }
+    ]
+}
