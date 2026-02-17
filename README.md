@@ -4,7 +4,7 @@
 
 Fecha de última actualización: 21 de mayo de 2025
 
-En PSF adicionales, respetamos tu privacidad, por ello, queremos informarte sobre cómo funciona nuestra aplicación en relación con el uso de internet, la publicidad, las suscripciones y las actualizaciones de contenido.
+En PSF adicionales, respetamos tu privacidad, por ello, queremos informarte sobre cómo funciona nuestra aplicación en relación con el uso de internet, la publicidad, las suscripciones, las actualizaciones de contenido y la funcionalidad de envío de opiniones.
 
 1.  Información que no recopilamos directamente:
 
@@ -17,6 +17,7 @@ En PSF adicionales, respetamos tu privacidad, por ello, queremos informarte sobr
     * Mostrar anuncios proporcionados por Google AdMob (si el usuario no tiene una suscripción activa).
         * Google AdMob: Es un servicio de publicidad móvil proporcionado por Google. Al mostrar anuncios, AdMob puede recopilar y utilizar cierta información sobre tu dispositivo y tu actividad dentro de la aplicación con el fin de mostrar anuncios relevantes. Esta recopilación y uso de datos se rigen por la Política de Privacidad de Google.
     * Obtener actualizaciones de contenido.
+    * Permitir el envío opcional de opiniones por parte del usuario.
 
 3.  Actualizaciones de Contenido mediante JSON desde GitHub:
 
@@ -38,7 +39,7 @@ En PSF adicionales, respetamos tu privacidad, por ello, queremos informarte sobr
 
     Te recomendamos encarecidamente revisar los siguientes documentos de Google para comprender cómo se maneja tu información durante el proceso de suscripción:
 
-    * [Términos de Servicio de Google Play](https://play.google.com/intl/ALL_es/about/play-terms/) (https://play.google.com/intl/ALL\_es/about/play-terms/)
+    * [Términos de Servicio de Google Play](https://play.google.com/intl/ALL_es/about/play-terms/) (https://play.google.com/intl/ALL_es/about/play-terms/)
     * [Política de Privacidad de Google](https://policies.google.com/terms?hl=es) (https://policies.google.com/terms?hl=es)
 
 5.  Información que AdMob podría recopilar (sin intervención directa de nuestra aplicación):
@@ -51,26 +52,26 @@ En PSF adicionales, respetamos tu privacidad, por ello, queremos informarte sobr
 
     Reiteramos la importancia de revisar la Política de Privacidad de Google para comprender cómo AdMob utiliza esta información.
 
-6.  Uso de Google Drive para copias de seguridad (opcional)
-    Nuestra aplicación ofrece la funcionalidad opcional de realizar copias de seguridad de los adicionales que hayas guardado, directamente en tu cuenta de Google Drive.
+6.  Envío de opiniones por parte del usuario:
 
-    * Totalmente opcional: Esta función requiere tu consentimiento explícito para iniciar sesión con tu cuenta de Google. Si decides no usarla, la funcionalidad principal de la aplicación no se verá afectada.
-    * Acceso limitado y controlado por el usuario: Cuando habilitas esta función, la aplicación solicita acceso exclusivamente a una carpeta oculta y privada creada por la propia aplicación dentro de tu Google Drive (Drive.SCOPE_APPFOLDER). Esto significa que solo la          aplicación puede ver y gestionar el contenido de esa carpeta específica.
-    * Privacidad de tus datos: PSF adicionales no tiene acceso ni conocimiento del contenido de las copias de seguridad que realizas. La aplicación simplemente facilita la transferencia de tus datos entre tu dispositivo y tu Google Drive. Nosotros no podemos ver,            acceder,     ni almacenar ningún archivo que guardes en tu Drive, ni tenemos acceso a ninguna otra parte de tu Google Drive personal. La gestión y seguridad de esos datos dentro de Google Drive se rige por la Política de Privacidad de Google.
-    * No recopilación de datos: No recopilamos ni almacenamos en nuestros servidores ninguna información de las copias de seguridad ni de tu cuenta de Google Drive.
-    
-    Te recomendamos revisar la Política de Privacidad de Google para comprender cómo maneja Google tu información cuando utilizas Google Drive y las Condiciones del Servicio de Google Drive.
+    La aplicación ofrece la posibilidad opcional de enviar una opinión sobre la experiencia de uso.
 
-    * [Condiciones del Servicio de Google Drive](https://www.google.com/drive/terms-of-service/) (https://www.google.com/drive/terms-of-service)
+    * Totalmente opcional: El envío de opiniones es voluntario y no es necesario para utilizar la aplicación.
+    * Información recopilada: En caso de que el usuario decida enviar una opinión, únicamente se recopilan los siguientes datos:
+        * Versión de la aplicación.
+        * Contenido de la opinión enviada por el usuario.
+    * No se recopilan nombres, correos electrónicos, identificadores de usuario, ni ningún otro dato personal.
+    * La información enviada se procesa a través de servicios de infraestructura basados en Cloudflare (Workers y KV). Cualquier dato técnico que Cloudflare pueda registrar automáticamente (como dirección IP o metadatos de conexión) se rige exclusivamente por la Política de Privacidad de Cloudflare y no es utilizado activamente por PSF adicionales.
+    * PSF adicionales no combina la opinión con ningún otro dato ni realiza perfiles de usuario.
 
-8.  No compartimos información personal:
+7.  No compartimos información personal:
    
-    Dado que PSF adicionales no recopila información personal directamente, no compartimos ningún dato personal con terceros. La información relacionada con las suscripciones es gestionada directamente por Google Play Store.
+    Dado que PSF adicionales no recopila información personal directamente, no compartimos ningún dato personal con terceros. La información relacionada con las suscripciones es gestionada directamente por Google Play Store. Las opiniones enviadas se almacenan únicamente con la versión de la aplicación asociada y no contienen datos identificatorios.
 
-9.  Cambios en esta política de privacidad:
+8.  Cambios en esta política de privacidad:
 
     Podemos actualizar esta política de privacidad en el futuro para reflejar cambios en nuestras prácticas o requisitos legales. Te notificaremos cualquier cambio significativo publicando la nueva política en esta página o a través de un aviso en la aplicación. Te recomendamos revisar esta política periódicamente.
 
-10.  Contacto:
+9.  Contacto:
 
      Si tienes alguna pregunta o inquietud sobre esta política de privacidad, puedes contactarnos a través de [lococoi@proton.me](mailto:lococoi@proton.me).
