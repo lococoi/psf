@@ -3,6 +3,16 @@
     {
       "nombre": "test 1",
       "habilitado": true,
+
+      "anuncios": true,
+
+      "config": {
+        "preguntasAleatorias": null,
+        "feedbackInmediato": true,
+        "modoExamen": null,
+        "opcionesAleatorias": false
+      },
+
       "preguntas": [
         {
           "texto": "¿Capital de Argentina?",
@@ -23,6 +33,16 @@
     {
       "nombre": "test deshabilitado",
       "habilitado": false,
+
+      "anuncios": null,
+
+      "config": {
+        "preguntasAleatorias": false,
+        "feedbackInmediato": false,
+        "modoExamen": false,
+        "opcionesAleatorias": false
+      },
+
       "preguntas": [
         {
           "texto": "No deberías poder abrir este cuestionario.",
