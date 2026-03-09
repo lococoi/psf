@@ -2,7 +2,7 @@
 
 **Políticas de Privacidad de PSF adicionales**
 
-Fecha de última actualización: 21 de mayo de 2025
+Fecha de última actualización: 9 de marzo de 2026
 
 En PSF adicionales, respetamos tu privacidad, por ello, queremos informarte sobre cómo funciona nuestra aplicación en relación con el uso de internet, la publicidad, las suscripciones, las actualizaciones de contenido y la funcionalidad de envío de opiniones.
 
@@ -72,6 +72,17 @@ En PSF adicionales, respetamos tu privacidad, por ello, queremos informarte sobr
 
     Podemos actualizar esta política de privacidad en el futuro para reflejar cambios en nuestras prácticas o requisitos legales. Te notificaremos cualquier cambio significativo publicando la nueva política en esta página o a través de un aviso en la aplicación. Te recomendamos revisar esta política periódicamente.
 
-9.  Contacto:
+9.  Relación con entidades gubernamentales
+
+    PSF adicionales es una aplicación independiente desarrollada de forma privada y no representa, no está afiliada ni tiene autorización de ningún organismo gubernamental, institución pública o entidad estatal.
+
+    Las preguntas, contenidos o referencias presentes en la aplicación pueden estar basadas en material público o de estudio disponible públicamente, utilizado únicamente con fines informativos o de práctica.
+
+    La aplicación no constituye un servicio oficial del gobierno ni reemplaza información oficial proporcionada por organismos públicos.
+
+    Para información oficial recomendamos consultar directamente los sitios web gubernamentales correspondientes.
+    https://www.santafe.gov.ar/index.php/web/content/view/full/258410/(subtema)/239105
+
+10.  Contacto:
 
      Si tienes alguna pregunta o inquietud sobre esta política de privacidad, puedes contactarnos a través de [lococoi@proton.me](mailto:lococoi@proton.me).
